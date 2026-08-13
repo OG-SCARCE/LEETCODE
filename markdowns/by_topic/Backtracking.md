@@ -1,0 +1,26 @@
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (18 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                    | Level   | Cats      | Solution                                                              | Languages   | Date Complete   |
+|-----:|:-------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:----------------------------------------------------------------------|:------------|:----------------|
+|   17 | [Letter Combinations of a Phone Number](<https://leetcode.com/problems/letter-combinations-of-a-phone-number>)           | Medium  | N150      | [solution](<../_17. Letter Combinations of a Phone Number.md>)        | java        | May 13, 2026    |
+|   22 | [Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)                                             | Medium  | N150      | [solution](<../_22. Generate Parentheses.md>)                         | java        | May 14, 2026    |
+|   39 | [Combination Sum](<https://leetcode.com/problems/combination-sum>)                                                       | Medium  | B75, N150 | [solution](<../_39. Combination Sum.md>)                              | java        | May 17, 2026    |
+|   40 | [Combination Sum II](<https://leetcode.com/problems/combination-sum-ii>)                                                 | Medium  | N150      | [solution](<../_40. Combination Sum II.md>)                           | java        | May 17, 2026    |
+|   46 | [Permutations](<https://leetcode.com/problems/permutations>)                                                             | Medium  | N150      | [solution](<../_46. Permutations.md>)                                 | java        | May 18, 2026    |
+|   47 | [Permutations II](<https://leetcode.com/problems/permutations-ii>)                                                       | Medium  |           | [solution](<../_47. Permutations II.md>)                              | java        | May 18, 2026    |
+|   77 | [Combinations](<https://leetcode.com/problems/combinations>)                                                             | Medium  |           | [solution](<../_77. Combinations.md>)                                 | java        | May 23, 2026    |
+|   78 | [Subsets](<https://leetcode.com/problems/subsets>)                                                                       | Medium  | N150      | [solution](<../_78. Subsets.md>)                                      | java        | May 23, 2026    |
+|   79 | [Word Search](<https://leetcode.com/problems/word-search>)                                                               | Medium  | B75, N150 | [solution](<../_79. Word Search.md>)                                  | java        | May 23, 2026    |
+|   89 | [Gray Code](<https://leetcode.com/problems/gray-code>)                                                                   | Medium  |           | [solution](<../_89. Gray Code.md>)                                    | java        | May 25, 2026    |
+|   90 | [Subsets II](<https://leetcode.com/problems/subsets-ii>)                                                                 | Medium  | N150      | [solution](<../_90. Subsets II.md>)                                   | java        | May 27, 2026    |
+|   93 | [Restore IP Addresses](<https://leetcode.com/problems/restore-ip-addresses>)                                             | Medium  |           | [solution](<../_93. Restore IP Addresses.md>)                         | java        | May 27, 2026    |
+|   95 | [Unique Binary Search Trees II](<https://leetcode.com/problems/unique-binary-search-trees-ii>)                           | Medium  |           | [solution](<../_95. Unique Binary Search Trees II.md>)                | java        | May 29, 2026    |
+|  113 | [Path Sum II](<https://leetcode.com/problems/path-sum-ii>)                                                               | Medium  |           | [solution](<../_113. Path Sum II.md>)                                 | java        | Jun 02, 2026    |
+|  131 | [Palindrome Partitioning](<https://leetcode.com/problems/palindrome-partitioning>)                                       | Medium  | N150      | [solution](<../_131. Palindrome Partitioning.md>)                     | java        | Jun 04, 2026    |
+|  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                   | Easy    |           | [solution](<../_257. Binary Tree Paths.md>)                           | java        | Jun 18, 2026    |
+| 1240 | [Tiling a Rectangle with the Fewest Squares](<https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares>) | Hard    |           | [solution](<../_1240. Tiling a Rectangle with the Fewest Squares.md>) | java        | Aug 09, 2026    |
+| 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                           | Medium  |           | [solution](<../_3376. Minimum Time to Break Locks I.md>)              | java        | May 29, 2026    |

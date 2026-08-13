@@ -1,0 +1,17 @@
+# [Divide and Conquer](<https://leetcode.com/tag/Divide-and-Conquer/>) (9 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|   # | Title                                                                                                                                                    | Level   | Cats      | Solution                                                                             | Languages   | Date Complete   |
+|----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:----------|:-------------------------------------------------------------------------------------|:------------|:----------------|
+|  53 | [Maximum Subarray](<https://leetcode.com/problems/maximum-subarray>)                                                                                     | Medium  | B75, N150 | [solution](<../_53. Maximum Subarray.md>)                                            | java        | May 19, 2026    |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](<https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal>)   | Medium  | B75, N150 | [solution](<../_105. Construct Binary Tree from Preorder and Inorder Traversal.md>)  | java        | May 31, 2026    |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](<https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal>) | Medium  |           | [solution](<../_106. Construct Binary Tree from Inorder and Postorder Traversal.md>) | java        | May 31, 2026    |
+| 108 | [Convert Sorted Array to Binary Search Tree](<https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree>)                                 | Easy    |           | [solution](<../_108. Convert Sorted Array to Binary Search Tree.md>)                 | java        | May 31, 2026    |
+| 109 | [Convert Sorted List to Binary Search Tree](<https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree>)                                   | Medium  |           | [solution](<../_109. Convert Sorted List to Binary Search Tree.md>)                  | java        | Jun 01, 2026    |
+| 148 | [Sort List](<https://leetcode.com/problems/sort-list>)                                                                                                   | Medium  |           | [solution](<../_148. Sort List.md>)                                                  | java        | Jun 13, 2026    |
+| 169 | [Majority Element](<https://leetcode.com/problems/majority-element>)                                                                                     | Easy    |           | [solution](<../_169. Majority Element.md>)                                           | java        | Jun 08, 2026    |
+| 190 | [Reverse Bits](<https://leetcode.com/problems/reverse-bits>)                                                                                             | Easy    | B75, N150 | [solution](<../_190. Reverse Bits.md>)                                               | java        | Jun 15, 2026    |
+| 191 | [Number of 1 Bits](<https://leetcode.com/problems/number-of-1-bits>)                                                                                     | Easy    | B75, N150 | [solution](<../_191. Number of 1 Bits.md>)                                           | java        | Jun 15, 2026    |

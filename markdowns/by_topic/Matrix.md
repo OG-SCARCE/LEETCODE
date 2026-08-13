@@ -1,0 +1,27 @@
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (19 completed)
+
+*[Back to top](<../../README.md>)*
+
+------
+
+|    # | Title                                                                                                                  | Level   | Cats      | Solution                                                             | Languages   | Date Complete   |
+|-----:|:-----------------------------------------------------------------------------------------------------------------------|:--------|:----------|:---------------------------------------------------------------------|:------------|:----------------|
+|   36 | [Valid Sudoku](<https://leetcode.com/problems/valid-sudoku>)                                                           | Medium  | N150      | [solution](<../_36. Valid Sudoku.md>)                                | java        | May 16, 2026    |
+|   48 | [Rotate Image](<https://leetcode.com/problems/rotate-image>)                                                           | Medium  | B75, N150 | [solution](<../_48. Rotate Image.md>)                                | java        | May 18, 2026    |
+|   54 | [Spiral Matrix](<https://leetcode.com/problems/spiral-matrix>)                                                         | Medium  | B75, N150 | [solution](<../_54. Spiral Matrix.md>)                               | java        | May 19, 2026    |
+|   59 | [Spiral Matrix II](<https://leetcode.com/problems/spiral-matrix-ii>)                                                   | Medium  |           | [solution](<../_59. Spiral Matrix II.md>)                            | java        | May 20, 2026    |
+|   63 | [Unique Paths II](<https://leetcode.com/problems/unique-paths-ii>)                                                     | Medium  |           | [solution](<../_63. Unique Paths II.md>)                             | java        | May 21, 2026    |
+|   64 | [Minimum Path Sum](<https://leetcode.com/problems/minimum-path-sum>)                                                   | Medium  |           | [solution](<../_64. Minimum Path Sum.md>)                            | java        | May 21, 2026    |
+|   73 | [Set Matrix Zeroes](<https://leetcode.com/problems/set-matrix-zeroes>)                                                 | Medium  | B75, N150 | [solution](<../_73. Set Matrix Zeroes.md>)                           | java        | May 23, 2026    |
+|   74 | [Search a 2D Matrix](<https://leetcode.com/problems/search-a-2d-matrix>)                                               | Medium  | N150      | [solution](<../_74. Search a 2D Matrix.md>)                          | java        | May 23, 2026    |
+|   79 | [Word Search](<https://leetcode.com/problems/word-search>)                                                             | Medium  | B75, N150 | [solution](<../_79. Word Search.md>)                                 | java        | May 23, 2026    |
+|  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                 | Medium  | B75, N150 | [solution](<../_200. Number of Islands.md>)                          | java        | Jun 15, 2026    |
+|  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                               | Medium  |           | [solution](<../_909. Snakes and Ladders.md>)                         | java        | Aug 03, 2026    |
+| 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                     | Medium  |           | [solution](<../_1222. Queens That Can Attack the King.md>)           | java        | Jul 06, 2026    |
+| 1428 | [Leftmost Column with at Least a One](<https://leetcode.com/problems/leftmost-column-with-at-least-a-one>)             | Medium  |           | [solution](<../_1428. Leftmost Column with at Least a One.md>)       | java        | May 17, 2026    |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](<https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid>)   | Medium  |           | [solution](<../_1878. Get Biggest Three Rhombus Sums in a Grid.md>)  | java        | May 23, 2026    |
+| 2245 | [Maximum Trailing Zeros in a Cornered Path](<https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path>) | Medium  |           | [solution](<../_2245. Maximum Trailing Zeros in a Cornered Path.md>) | java        | May 31, 2026    |
+| 2319 | [Check if Matrix Is X-Matrix](<https://leetcode.com/problems/check-if-matrix-is-x-matrix>)                             | Easy    |           | [solution](<../_2319. Check if Matrix Is X-Matrix.md>)               | java        | Aug 13, 2026    |
+| 2639 | [Find the Width of Columns of a Grid](<https://leetcode.com/problems/find-the-width-of-columns-of-a-grid>)             | Easy    |           | [solution](<../_2639. Find the Width of Columns of a Grid.md>)       | java        | May 11, 2026    |
+| 3225 | [Maximum Score From Grid Operations](<https://leetcode.com/problems/maximum-score-from-grid-operations>)               | Hard    |           | [solution](<../_3225. Maximum Score From Grid Operations.md>)        | java        | Aug 12, 2026    |
+| 3276 | [Select Cells in Grid With Maximum Score](<https://leetcode.com/problems/select-cells-in-grid-with-maximum-score>)     | Hard    |           | [solution](<../_3276. Select Cells in Grid With Maximum Score.md>)   | java        | Jul 31, 2026    |
