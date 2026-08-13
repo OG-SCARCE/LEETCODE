@@ -3,20 +3,19 @@ name: Auto Update README LeetCode
 on:
   workflow_dispatch:
   schedule:
-    - cron: "45 18 * * *" # Har raat 12:15 AM IST par chalega (LeetCode Sync ke theek baad)
+    - cron: "45 18 * * *" # Har raat 12:15 AM IST par chalega
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # GitHub to code push write permission dene ke liye
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: LeetCode README Bot
-        uses: jasonwryan/leetcode-readme-bot@v1.2.0
+      - name: Generate LeetCode Markdown Table
+        uses: Zanger67/WikiLeet@main
         with:
-          github-token: ${{ github.token }}
-          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
-          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: solutions
-          commit-message: "docs: auto update README with latest solutions"
+          username: OG-SCARCE
