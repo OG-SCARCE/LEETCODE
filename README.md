@@ -2,7 +2,7 @@
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
-> My LeetCode Profile: [OG-SCARCE](https://leetcode.com/u/SCARCE/)
+> My LeetCode Profile: [OG-SCARCE](https://leetcode.com/u/OG-SCARCE/)
 
 
 ## About this Repo
