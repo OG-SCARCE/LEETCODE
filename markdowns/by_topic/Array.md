@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (115 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (116 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -106,6 +106,7 @@
 | 3275 | [K-th Nearest Obstacle Queries](<https://leetcode.com/problems/k-th-nearest-obstacle-queries>)                                                             | Medium  |                  | [solution](<../_3275. K-th Nearest Obstacle Queries.md>)                               | java        | Jul 30, 2026    |
 | 3276 | [Select Cells in Grid With Maximum Score](<https://leetcode.com/problems/select-cells-in-grid-with-maximum-score>)                                         | Hard    |                  | [solution](<../_3276. Select Cells in Grid With Maximum Score.md>)                     | java        | Jul 31, 2026    |
 | 3299 | [Sum of Consecutive Subsequences](<https://leetcode.com/problems/sum-of-consecutive-subsequences>)                                                         | Hard    |                  | [solution](<../_3299. Sum of Consecutive Subsequences.md>)                             | java        | Jun 27, 2026    |
+| 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                                     | Easy    |                  | [solution](<../_3349. Adjacent Increasing Subarrays Detection I.md>)                   | java        | Aug 14, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                                                             | Medium  |                  | [solution](<../_3376. Minimum Time to Break Locks I.md>)                               | java        | May 29, 2026    |
 | 3435 | [Frequencies of Shortest Supersequences](<https://leetcode.com/problems/frequencies-of-shortest-supersequences>)                                           | Hard    |                  | [solution](<../_3435. Frequencies of Shortest Supersequences.md>)                      | java        | May 30, 2026    |
 | 3583 | [Count Special Triplets](<https://leetcode.com/problems/count-special-triplets>)                                                                           | Medium  |                  | [solution](<../_3583. Count Special Triplets.md>)                                      | java        | Jul 17, 2026    |

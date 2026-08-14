@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (287 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (288 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -265,6 +265,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3276 | [Select Cells in Grid With Maximum Score](<https://leetcode.com/problems/select-cells-in-grid-with-maximum-score>)                                           | Hard    |                  | [solution](<markdowns/_3276. Select Cells in Grid With Maximum Score.md>)                      | java        |
 | 3299 | [Sum of Consecutive Subsequences](<https://leetcode.com/problems/sum-of-consecutive-subsequences>)                                                           | Hard    |                  | [solution](<markdowns/_3299. Sum of Consecutive Subsequences.md>)                              | java        |
 | 3329 | [Count Substrings With K-Frequency Characters II](<https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii>)                           | Hard    |                  | [solution](<markdowns/_3329. Count Substrings With K-Frequency Characters II.md>)              | java        |
+| 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                                       | Easy    |                  | [solution](<markdowns/_3349. Adjacent Increasing Subarrays Detection I.md>)                    | java        |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                                                               | Medium  |                  | [solution](<markdowns/_3376. Minimum Time to Break Locks I.md>)                                | java        |
 | 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](<https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements>) | Hard    |                  | [solution](<markdowns/_3405. Count the Number of Arrays with K Matching Adjacent Elements.md>) | java        |
 | 3408 | [Design Task Manager](<https://leetcode.com/problems/design-task-manager>)                                                                                   | Medium  |                  | [solution](<markdowns/_3408. Design Task Manager.md>)                                          | java        |
