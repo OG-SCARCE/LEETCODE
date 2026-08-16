@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (9 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,5 +13,6 @@
 | 1297 | [Maximum Number of Occurrences of a Substring](<https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring>)       | Medium  |           | [solution](<../_1297. Maximum Number of Occurrences of a Substring.md>)    | java        | Jun 22, 2026    |
 | 1956 | [Minimum Time For K Virus Variants to Spread](<https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread>)         | Hard    |           | [solution](<../_1956. Minimum Time For K Virus Variants to Spread.md>)     | java        | Jun 28, 2026    |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](<https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps>)   | Hard    |           | [solution](<../_2106. Maximum Fruits Harvested After at Most K Steps.md>)  | java        | Jul 18, 2026    |
+| 2156 | [Find Substring With Given Hash Value](<https://leetcode.com/problems/find-substring-with-given-hash-value>)                       | Hard    |           | [solution](<../_2156. Find Substring With Given Hash Value.md>)            | java        | Aug 16, 2026    |
 | 3329 | [Count Substrings With K-Frequency Characters II](<https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii>) | Hard    |           | [solution](<../_3329. Count Substrings With K-Frequency Characters II.md>) | java        | May 21, 2026    |
 | 3859 | [Count Subarrays With K Distinct Integers](<https://leetcode.com/problems/count-subarrays-with-k-distinct-integers>)               | Hard    |           | [solution](<../_3859. Count Subarrays With K Distinct Integers.md>)        | java        | Jul 25, 2026    |

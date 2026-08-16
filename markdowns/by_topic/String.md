@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (54 completed)
+# [String](<https://leetcode.com/tag/String/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -49,6 +49,7 @@
 | 1447 | [Simplified Fractions](<https://leetcode.com/problems/simplified-fractions>)                                                                           | Medium  |           | [solution](<../_1447. Simplified Fractions.md>)                                      | java        | May 18, 2026    |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](<https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones>)       | Easy    |           | [solution](<../_1784. Check if Binary String Has at Most One Segment of Ones.md>)    | java        | May 12, 2026    |
 | 1961 | [Check If String Is a Prefix of Array](<https://leetcode.com/problems/check-if-string-is-a-prefix-of-array>)                                           | Easy    |           | [solution](<../_1961. Check If String Is a Prefix of Array.md>)                      | java        | Jun 21, 2026    |
+| 2156 | [Find Substring With Given Hash Value](<https://leetcode.com/problems/find-substring-with-given-hash-value>)                                           | Hard    |           | [solution](<../_2156. Find Substring With Given Hash Value.md>)                      | java        | Aug 16, 2026    |
 | 2306 | [Naming a Company](<https://leetcode.com/problems/naming-a-company>)                                                                                   | Hard    |           | [solution](<../_2306. Naming a Company.md>)                                          | java        | Jun 07, 2026    |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](<https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful>) | Medium  |           | [solution](<../_2914. Minimum Number of Changes to Make Binary String Beautiful.md>) | java        | Jul 01, 2026    |
 | 3329 | [Count Substrings With K-Frequency Characters II](<https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii>)                     | Hard    |           | [solution](<../_3329. Count Substrings With K-Frequency Characters II.md>)           | java        | May 21, 2026    |

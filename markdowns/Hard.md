@@ -1,4 +1,4 @@
-# Hard Questions (24)
+# Hard Questions (25)
 
 *[Back to top](<../README.md>)*
 
@@ -13,6 +13,7 @@
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                         | Hard    |        | [solution](<_1793. Maximum Score of a Good Subarray.md>)                             | java        | May 13, 2026    |
 | 1956 | [Minimum Time For K Virus Variants to Spread](<https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread>)                                   | Hard    |        | [solution](<_1956. Minimum Time For K Virus Variants to Spread.md>)                  | java        | Jun 28, 2026    |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](<https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps>)                             | Hard    |        | [solution](<_2106. Maximum Fruits Harvested After at Most K Steps.md>)               | java        | Jul 18, 2026    |
+| 2156 | [Find Substring With Given Hash Value](<https://leetcode.com/problems/find-substring-with-given-hash-value>)                                                 | Hard    |        | [solution](<_2156. Find Substring With Given Hash Value.md>)                         | java        | Aug 16, 2026    |
 | 2306 | [Naming a Company](<https://leetcode.com/problems/naming-a-company>)                                                                                         | Hard    |        | [solution](<_2306. Naming a Company.md>)                                             | java        | Jun 07, 2026    |
 | 2714 | [Find Shortest Path with K Hops](<https://leetcode.com/problems/find-shortest-path-with-k-hops>)                                                             | Hard    |        | [solution](<_2714. Find Shortest Path with K Hops.md>)                               | java        | Jun 06, 2026    |
 | 2793 | [Status of Flight Tickets](<https://leetcode.com/problems/status-of-flight-tickets>)                                                                         | Hard    |        | [solution](<_2793. Status of Flight Tickets.md>)                                     | java        | Jul 11, 2026    |
