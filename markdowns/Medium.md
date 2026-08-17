@@ -1,4 +1,4 @@
-# Medium Questions (148)
+# Medium Questions (149)
 
 *[Back to top](<../README.md>)*
 
@@ -125,6 +125,7 @@
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](<https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero>)           | Medium  |                  | [solution](<_1466. Reorder Routes to Make All Paths Lead to the City Zero.md>)      | java        | May 24, 2026    |
 | 1522 | [Diameter of N-Ary Tree](<https://leetcode.com/problems/diameter-of-n-ary-tree>)                                                                           | Medium  |                  | [solution](<_1522. Diameter of N-Ary Tree.md>)                                      | java        | Aug 03, 2026    |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](<https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted>)               | Medium  |                  | [solution](<_1574. Shortest Subarray to be Removed to Make Array Sorted.md>)        | java        | Jul 27, 2026    |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](<https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array>)                             | Medium  |                  | [solution](<_1685. Sum of Absolute Differences in a Sorted Array.md>)               | java        | Aug 17, 2026    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                           | Medium  | Daily            | [solution](<_1833. Maximum Ice Cream Bars.md>)                                      | java        | Jun 19, 2026    |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](<https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid>)                                       | Medium  |                  | [solution](<_1878. Get Biggest Three Rhombus Sums in a Grid.md>)                    | java        | May 23, 2026    |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](<https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors>)             | Medium  |                  | [solution](<_1968. Array With Elements Not Equal to Average of Neighbors.md>)       | java        | Jun 20, 2026    |

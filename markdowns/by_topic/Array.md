@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (116 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (117 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -84,6 +84,7 @@
 | 1428 | [Leftmost Column with at Least a One](<https://leetcode.com/problems/leftmost-column-with-at-least-a-one>)                                                 | Medium  |                  | [solution](<../_1428. Leftmost Column with at Least a One.md>)                         | java        | May 17, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                               | Easy    |                  | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                | java        | Jun 30, 2026    |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](<https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted>)               | Medium  |                  | [solution](<../_1574. Shortest Subarray to be Removed to Make Array Sorted.md>)        | java        | Jul 27, 2026    |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](<https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array>)                             | Medium  |                  | [solution](<../_1685. Sum of Absolute Differences in a Sorted Array.md>)               | java        | Aug 17, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                       | Hard    |                  | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                            | java        | May 13, 2026    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                           | Medium  | Daily            | [solution](<../_1833. Maximum Ice Cream Bars.md>)                                      | java        | Jun 19, 2026    |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](<https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid>)                                       | Medium  |                  | [solution](<../_1878. Get Biggest Three Rhombus Sums in a Grid.md>)                    | java        | May 23, 2026    |

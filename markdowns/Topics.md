@@ -4,10 +4,10 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (116 completed)
+- [Array](<by_topic/Array.md>) (117 completed)
 - [String](<by_topic/String.md>) (55 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (46 completed)
-- [Math](<by_topic/Math.md>) (41 completed)
+- [Math](<by_topic/Math.md>) (42 completed)
 - [Tree](<by_topic/Tree.md>) (38 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (35 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (33 completed)
@@ -29,8 +29,8 @@
 - [Binary Search Tree](<by_topic/Binary Search Tree.md>) (7 completed)
 - [Design](<by_topic/Design.md>) (7 completed)
 - [Counting](<by_topic/Counting.md>) (7 completed)
+- [Prefix Sum](<by_topic/Prefix Sum.md>) (7 completed)
 - [Graph Theory](<by_topic/Graph Theory.md>) (6 completed)
-- [Prefix Sum](<by_topic/Prefix Sum.md>) (6 completed)
 - [Enumeration](<by_topic/Enumeration.md>) (5 completed)
 - [Heap (Priority Queue)](<by_topic/Heap (Priority Queue).md>) (5 completed)
 - [Union-Find](<by_topic/Union-Find.md>) (3 completed)

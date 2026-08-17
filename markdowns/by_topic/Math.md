@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (41 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (42 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                         | Easy    | Daily     | [solution](<../_628. Maximum Product of Three Numbers.md>)                              | java        | Jul 26, 2026    |
 | 1256 | [Encode Number](<https://leetcode.com/problems/encode-number>)                                                                                               | Medium  |           | [solution](<../_1256. Encode Number.md>)                                                | java        | Jul 12, 2026    |
 | 1447 | [Simplified Fractions](<https://leetcode.com/problems/simplified-fractions>)                                                                                 | Medium  |           | [solution](<../_1447. Simplified Fractions.md>)                                         | java        | May 18, 2026    |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](<https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array>)                               | Medium  |           | [solution](<../_1685. Sum of Absolute Differences in a Sorted Array.md>)                | java        | Aug 17, 2026    |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](<https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid>)                                         | Medium  |           | [solution](<../_1878. Get Biggest Three Rhombus Sums in a Grid.md>)                     | java        | May 23, 2026    |
 | 1956 | [Minimum Time For K Virus Variants to Spread](<https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread>)                                   | Hard    |           | [solution](<../_1956. Minimum Time For K Virus Variants to Spread.md>)                  | java        | Jun 28, 2026    |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](<https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles>)                               | Medium  |           | [solution](<../_2001. Number of Pairs of Interchangeable Rectangles.md>)                | java        | May 25, 2026    |
