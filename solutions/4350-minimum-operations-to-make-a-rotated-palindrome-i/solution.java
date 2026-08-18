@@ -1,24 +1,41 @@
 class Solution {
     public int minOperations(String s) {
-        int n = s.length();
-        int ans = Integer.MAX_VALUE;
-
-        for(int k = 0; k < n; k++) {
-            int operations = k;
-
-            for (int i = 0; i < n/2; i++){
-                
-                char a = s.charAt((i + k) % n);
-                char b = s.charAt((n - i - 1 + k) % n);
-
-                int diff1 = (b - a + 26 ) % 26;
-                int diff2 = (a - b + 26 ) % 26;
-
-                operations += Math.min(diff1, diff2);
-
-            }
-            ans = Math.min(ans, operations);
+        String[] strings = new String[s.length()];
+        int[] cost = new int[s.length()];
+        strings[0] = s;
+        cost[0]=0;
+        for(int i = 1 ; i < s.length();i++){
+            s = s.substring(1)+s.charAt(0);
+            strings[i] = s;
+            cost[i]+=i;
         }
-        return ans;
+        for (int i = 0; i < strings.length ; i++){
+            cost[i]+=pallindrome(strings[i]);
+        }
+        int min = Integer.MAX_VALUE;
+        for (int elt : cost){
+            if(elt < min){
+                min = elt;
+            }
+
+        }
+        return min;
+    }
+    public int pallindrome(String s){
+        int i = 0;
+        int j = s.length()-1;
+        int steps1 = 0;
+        int steps2 = 0;
+        int step3 = 0;
+        while(i<j){
+            if(s.charAt(i) != s.charAt(j)){
+                steps1 = Math.abs((int)s.charAt(i)-(int)s.charAt(j));
+                steps2 = 26-Math.abs((int)s.charAt(i)-(int)s.charAt(j));
+                step3 += Math.min(steps1,steps2);
+            }
+            i++;
+            j--;
+        }
+        return step3;
     }
 }
