@@ -1,4 +1,4 @@
-# Medium Questions (149)
+# Medium Questions (150)
 
 *[Back to top](<../README.md>)*
 
@@ -146,6 +146,7 @@
 | 3608 | [Minimum Time for K Connected Components](<https://leetcode.com/problems/minimum-time-for-k-connected-components>)                                         | Medium  |                  | [solution](<_3608. Minimum Time for K Connected Components.md>)                     | java        | Jul 14, 2026    |
 | 3626 | [Find Stores with Inventory Imbalance](<https://leetcode.com/problems/find-stores-with-inventory-imbalance>)                                               | Medium  |                  | [solution](<_3626. Find Stores with Inventory Imbalance.md>)                        | java        | Aug 06, 2026    |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                       | Medium  |                  | [solution](<_3635. Earliest Finish Time for Land and Water Rides II.md>)            | java        | Aug 07, 2026    |
+| 3705 | [Find Golden Hour Customers](<https://leetcode.com/problems/find-golden-hour-customers>)                                                                   | Medium  |                  | [solution](<_3705. Find Golden Hour Customers.md>)                                  | java        | Aug 18, 2026    |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                               | Medium  |                  | [solution](<_3804. Number of Centered Subarrays.md>)                                | java        | Jul 23, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                     | Medium  |                  | [solution](<_3805. Count Caesar Cipher Pairs.md>)                                   | java        | Jul 21, 2026    |
 | 3820 | [Pythagorean Distance Nodes in a Tree](<https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree>)                                               | Medium  |                  | [solution](<_3820. Pythagorean Distance Nodes in a Tree.md>)                        | java        | Jul 24, 2026    |

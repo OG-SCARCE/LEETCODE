@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (295 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (296 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -280,6 +280,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3608 | [Minimum Time for K Connected Components](<https://leetcode.com/problems/minimum-time-for-k-connected-components>)                                           | Medium  |                  | [solution](<markdowns/_3608. Minimum Time for K Connected Components.md>)                      | java        |
 | 3626 | [Find Stores with Inventory Imbalance](<https://leetcode.com/problems/find-stores-with-inventory-imbalance>)                                                 | Medium  |                  | [solution](<markdowns/_3626. Find Stores with Inventory Imbalance.md>)                         | java        |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                         | Medium  |                  | [solution](<markdowns/_3635. Earliest Finish Time for Land and Water Rides II.md>)             | java        |
+| 3705 | [Find Golden Hour Customers](<https://leetcode.com/problems/find-golden-hour-customers>)                                                                     | Medium  |                  | [solution](<markdowns/_3705. Find Golden Hour Customers.md>)                                   | java        |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                                 | Medium  |                  | [solution](<markdowns/_3804. Number of Centered Subarrays.md>)                                 | java        |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                       | Medium  |                  | [solution](<markdowns/_3805. Count Caesar Cipher Pairs.md>)                                    | java        |
 | 3812 | [Minimum Edge Toggles on a Tree](<https://leetcode.com/problems/minimum-edge-toggles-on-a-tree>)                                                             | Hard    |                  | [solution](<markdowns/_3812. Minimum Edge Toggles on a Tree.md>)                               | java        |
