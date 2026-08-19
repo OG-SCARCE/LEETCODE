@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (46 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (47 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,8 +35,9 @@
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                         | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                             | java        | Jun 19, 2026    |
 |  290 | [Word Pattern](<https://leetcode.com/problems/word-pattern>)                                                                                             | Easy    |           | [solution](<../_290. Word Pattern.md>)                                               | java        | Jun 21, 2026    |
 | 1297 | [Maximum Number of Occurrences of a Substring](<https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring>)                             | Medium  |           | [solution](<../_1297. Maximum Number of Occurrences of a Substring.md>)              | java        | Jun 22, 2026    |
-| 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                         | Medium  |           | [solution](<../_1386. Cinema Seat Allocation.md>)                                    | java        | Jul 20, 2026    |
+| 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                         | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                                    | java        | Jul 20, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                             | Easy    |           | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)              | java        | Jun 30, 2026    |
+| 1487 | [Making File Names Unique](<https://leetcode.com/problems/making-file-names-unique>)                                                                     | Medium  |           | [solution](<../_1487. Making File Names Unique.md>)                                  | java        | Aug 19, 2026    |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](<https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles>)                           | Medium  |           | [solution](<../_2001. Number of Pairs of Interchangeable Rectangles.md>)             | java        | May 25, 2026    |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](<https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum>)                   | Easy    |           | [solution](<../_2099. Find Subsequence of Length K With the Largest Sum.md>)         | java        | Jun 30, 2026    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                       | Easy    |           | [solution](<../_2248. Intersection of Multiple Arrays.md>)                           | java        | Jun 01, 2026    |

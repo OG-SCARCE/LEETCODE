@@ -5,19 +5,20 @@
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
 ### August 2026
-| Su   | Mo   | Tu   | We   | Th   | Fr   | Sa                                 |
-|-----:|-----:|-----:|-----:|-----:|-----:|-----------------------------------:|
-|      |      |      |      |      |      | [1](<_486. Predict the Winner.md>) |
-| 2    | 3    | 4    | 5    | 6    | 7    | 8                                  |
-| 9    | 10   | 11   | 12   | 13   | 14   | 15                                 |
-| 16   | 17   | 18   | 19   | 20   | 21   | 22                                 |
-| 23   | 24   | 25   | 26   | 27   | 28   | 29                                 |
-| 30   | 31   |      |      |      |      |                                    |
+| Su   | Mo   | Tu   | We                                       | Th   | Fr   | Sa                                 |
+|-----:|-----:|-----:|-----------------------------------------:|-----:|-----:|-----------------------------------:|
+|      |      |      |                                          |      |      | [1](<_486. Predict the Winner.md>) |
+| 2    | 3    | 4    | 5                                        | 6    | 7    | 8                                  |
+| 9    | 10   | 11   | 12                                       | 13   | 14   | 15                                 |
+| 16   | 17   | 18   | [19](<_1386. Cinema Seat Allocation.md>) | 20   | 21   | 22                                 |
+| 23   | 24   | 25   | 26                                       | 27   | 28   | 29                                 |
+| 30   | 31   |      |                                          |      |      |                                    |
 
 
 
 |    # | Title                                                                                                              | Level   | Cats             | Solution                                                       | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------|:--------|:-----------------|:---------------------------------------------------------------|:------------|:----------------|
+| 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                   | Medium  | Daily            | [solution](<_1386. Cinema Seat Allocation.md>)                 | java        | Aug 19, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                           | Medium  | Daily            | [solution](<_486. Predict the Winner.md>)                      | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)               | Easy    | Daily            | [solution](<_628. Maximum Product of Three Numbers.md>)        | java        | Jul 26, 2026    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                   | Medium  | Daily            | [solution](<_1833. Maximum Ice Cream Bars.md>)                 | java        | Jun 21, 2026    |
@@ -57,12 +58,12 @@ Dates are for the date I completed the question so due to the my time zone and h
 
 
 ### August 2026
-| Su   | Mo   | Tu   | We   | Th   | Fr   | Sa                                 |
-|-----:|-----:|-----:|-----:|-----:|-----:|-----------------------------------:|
-|      |      |      |      |      |      | [1](<_486. Predict the Winner.md>) |
-| 2    | 3    | 4    | 5    | 6    | 7    | 8                                  |
-| 9    | 10   | 11   | 12   | 13   | 14   | 15                                 |
-| 16   | 17   | 18   | 19   | 20   | 21   | 22                                 |
-| 23   | 24   | 25   | 26   | 27   | 28   | 29                                 |
-| 30   | 31   |      |      |      |      |                                    |
+| Su   | Mo   | Tu   | We                                       | Th   | Fr   | Sa                                 |
+|-----:|-----:|-----:|-----------------------------------------:|-----:|-----:|-----------------------------------:|
+|      |      |      |                                          |      |      | [1](<_486. Predict the Winner.md>) |
+| 2    | 3    | 4    | 5                                        | 6    | 7    | 8                                  |
+| 9    | 10   | 11   | 12                                       | 13   | 14   | 15                                 |
+| 16   | 17   | 18   | [19](<_1386. Cinema Seat Allocation.md>) | 20   | 21   | 22                                 |
+| 23   | 24   | 25   | 26                                       | 27   | 28   | 29                                 |
+| 30   | 31   |      |                                          |      |      |                                    |
 

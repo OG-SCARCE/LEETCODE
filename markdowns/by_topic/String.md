@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (55 completed)
+# [String](<https://leetcode.com/tag/String/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -47,6 +47,7 @@
 | 1297 | [Maximum Number of Occurrences of a Substring](<https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring>)                           | Medium  |           | [solution](<../_1297. Maximum Number of Occurrences of a Substring.md>)              | java        | Jun 22, 2026    |
 | 1446 | [Consecutive Characters](<https://leetcode.com/problems/consecutive-characters>)                                                                       | Easy    |           | [solution](<../_1446. Consecutive Characters.md>)                                    | java        | Jun 18, 2026    |
 | 1447 | [Simplified Fractions](<https://leetcode.com/problems/simplified-fractions>)                                                                           | Medium  |           | [solution](<../_1447. Simplified Fractions.md>)                                      | java        | May 18, 2026    |
+| 1487 | [Making File Names Unique](<https://leetcode.com/problems/making-file-names-unique>)                                                                   | Medium  |           | [solution](<../_1487. Making File Names Unique.md>)                                  | java        | Aug 19, 2026    |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](<https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones>)       | Easy    |           | [solution](<../_1784. Check if Binary String Has at Most One Segment of Ones.md>)    | java        | May 12, 2026    |
 | 1961 | [Check If String Is a Prefix of Array](<https://leetcode.com/problems/check-if-string-is-a-prefix-of-array>)                                           | Easy    |           | [solution](<../_1961. Check If String Is a Prefix of Array.md>)                      | java        | Jun 21, 2026    |
 | 2156 | [Find Substring With Given Hash Value](<https://leetcode.com/problems/find-substring-with-given-hash-value>)                                           | Hard    |           | [solution](<../_2156. Find Substring With Given Hash Value.md>)                      | java        | Aug 16, 2026    |
