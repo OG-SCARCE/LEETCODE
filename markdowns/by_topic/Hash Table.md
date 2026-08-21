@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (47 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (48 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -45,6 +45,7 @@
 | 2766 | [Relocate Marbles](<https://leetcode.com/problems/relocate-marbles>)                                                                                     | Medium  |           | [solution](<../_2766. Relocate Marbles.md>)                                          | java        | May 20, 2026    |
 | 3299 | [Sum of Consecutive Subsequences](<https://leetcode.com/problems/sum-of-consecutive-subsequences>)                                                       | Hard    |           | [solution](<../_3299. Sum of Consecutive Subsequences.md>)                           | java        | Jun 27, 2026    |
 | 3329 | [Count Substrings With K-Frequency Characters II](<https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii>)                       | Hard    |           | [solution](<../_3329. Count Substrings With K-Frequency Characters II.md>)           | java        | May 21, 2026    |
+| 3375 | [Minimum Operations to Make Array Values Equal to K](<https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k>)                 | Easy    |           | [solution](<../_3375. Minimum Operations to Make Array Values Equal to K.md>)        | java        | Aug 21, 2026    |
 | 3408 | [Design Task Manager](<https://leetcode.com/problems/design-task-manager>)                                                                               | Medium  |           | [solution](<../_3408. Design Task Manager.md>)                                       | java        | May 26, 2026    |
 | 3583 | [Count Special Triplets](<https://leetcode.com/problems/count-special-triplets>)                                                                         | Medium  |           | [solution](<../_3583. Count Special Triplets.md>)                                    | java        | Jul 17, 2026    |
 | 3606 | [Coupon Code Validator](<https://leetcode.com/problems/coupon-code-validator>)                                                                           | Easy    |           | [solution](<../_3606. Coupon Code Validator.md>)                                     | java        | May 29, 2026    |
