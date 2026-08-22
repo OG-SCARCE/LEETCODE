@@ -1,4 +1,4 @@
-# Medium Questions (151)
+# Medium Questions (152)
 
 *[Back to top](<../README.md>)*
 
@@ -153,6 +153,7 @@
 | 3820 | [Pythagorean Distance Nodes in a Tree](<https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree>)                                               | Medium  |                  | [solution](<_3820. Pythagorean Distance Nodes in a Tree.md>)                        | java        | Jul 24, 2026    |
 | 3824 | [Minimum K to Reduce Array Within Limit](<https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit>)                                           | Medium  |                  | [solution](<_3824. Minimum K to Reduce Array Within Limit.md>)                      | java        | Jul 23, 2026    |
 | 3844 | [Longest Almost-Palindromic Substring](<https://leetcode.com/problems/longest-almost-palindromic-substring>)                                               | Medium  |                  | [solution](<_3844. Longest Almost-Palindromic Substring.md>)                        | java        | Jun 11, 2026    |
+| 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                               | Medium  |                  | [solution](<_3918. Sum of Primes Between Number and Its Reverse.md>)                | java        | Aug 22, 2026    |
 | 3919 | [Minimum Cost to Move Between Indices](<https://leetcode.com/problems/minimum-cost-to-move-between-indices>)                                               | Medium  |                  | [solution](<_3919. Minimum Cost to Move Between Indices.md>)                        | java        | Jul 04, 2026    |
 | 3964 | [Minimum Lights to Illuminate a Road](<https://leetcode.com/problems/minimum-lights-to-illuminate-a-road>)                                                 | Medium  |                  | [solution](<_3964. Minimum Lights to Illuminate a Road.md>)                         | java        | Jun 24, 2026    |
 | 3965 | [Finish Time of Tasks I](<https://leetcode.com/problems/finish-time-of-tasks-i>)                                                                           | Medium  |                  | [solution](<_3965. Finish Time of Tasks I.md>)                                      | java        | Jun 02, 2026    |

@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (42 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (43 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -48,3 +48,4 @@
 | 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](<https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements>) | Hard    |           | [solution](<../_3405. Count the Number of Arrays with K Matching Adjacent Elements.md>) | java        | May 27, 2026    |
 | 3558 | [Number of Ways to Assign Edge Weights I](<https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i>)                                           | Medium  |           | [solution](<../_3558. Number of Ways to Assign Edge Weights I.md>)                      | java        | Jul 02, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                       | Medium  |           | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                    | java        | Jul 21, 2026    |
+| 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                                 | Medium  |           | [solution](<../_3918. Sum of Primes Between Number and Its Reverse.md>)                 | java        | Aug 22, 2026    |
