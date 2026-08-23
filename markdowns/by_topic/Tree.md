@@ -1,4 +1,4 @@
-# [Tree](<https://leetcode.com/tag/Tree/>) (38 completed)
+# [Tree](<https://leetcode.com/tag/Tree/>) (40 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -44,3 +44,5 @@
 | 3812 | [Minimum Edge Toggles on a Tree](<https://leetcode.com/problems/minimum-edge-toggles-on-a-tree>)                                                         | Hard    |           | [solution](<../_3812. Minimum Edge Toggles on a Tree.md>)                            | java        | Jul 28, 2026    |
 | 3820 | [Pythagorean Distance Nodes in a Tree](<https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree>)                                             | Medium  |           | [solution](<../_3820. Pythagorean Distance Nodes in a Tree.md>)                      | java        | Jul 24, 2026    |
 | 3939 | [Count Non Adjacent Subsets in a Rooted Tree](<https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree>)                               | Hard    |           | [solution](<../_3939. Count Non Adjacent Subsets in a Rooted Tree.md>)               | java        | Jun 17, 2026    |
+| 3965 | [Finish Time of Tasks I](<https://leetcode.com/problems/finish-time-of-tasks-i>)                                                                         | Medium  |           | [solution](<../_3965. Finish Time of Tasks I.md>)                                    | java        | Jun 02, 2026    |
+| 3967 | [Finish Time of Tasks II](<https://leetcode.com/problems/finish-time-of-tasks-ii>)                                                                       | Hard    |           | [solution](<../_3967. Finish Time of Tasks II.md>)                                   | java        | Jun 03, 2026    |

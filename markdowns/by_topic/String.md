@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (56 completed)
+# [String](<https://leetcode.com/tag/String/>) (57 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -62,3 +62,4 @@
 | 3838 | [Weighted Word Mapping](<https://leetcode.com/problems/weighted-word-mapping>)                                                                         | Easy    |           | [solution](<../_3838. Weighted Word Mapping.md>)                                     | java        | Jul 09, 2026    |
 | 3844 | [Longest Almost-Palindromic Substring](<https://leetcode.com/problems/longest-almost-palindromic-substring>)                                           | Medium  |           | [solution](<../_3844. Longest Almost-Palindromic Substring.md>)                      | java        | Jun 11, 2026    |
 | 3931 | [Check Adjacent Digit Differences](<https://leetcode.com/problems/check-adjacent-digit-differences>)                                                   | Easy    |           | [solution](<../_3931. Check Adjacent Digit Differences.md>)                          | java        | Jun 16, 2026    |
+| 3995 | [Minimum Cost to Convert String III](<https://leetcode.com/problems/minimum-cost-to-convert-string-iii>)                                               | Hard    |           | [solution](<../_3995. Minimum Cost to Convert String III.md>)                        | java        | Jul 15, 2026    |

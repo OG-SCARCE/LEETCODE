@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (7 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (9 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,3 +13,5 @@
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                         | Medium  |        | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                     | java        | Jul 21, 2026    |
 | 3852 | [Smallest Pair With Different Frequencies](<https://leetcode.com/problems/smallest-pair-with-different-frequencies>)           | Easy    |        | [solution](<../_3852. Smallest Pair With Different Frequencies.md>)      | java        | Jul 10, 2026    |
 | 3859 | [Count Subarrays With K Distinct Integers](<https://leetcode.com/problems/count-subarrays-with-k-distinct-integers>)           | Hard    |        | [solution](<../_3859. Count Subarrays With K Distinct Integers.md>)      | java        | Jul 25, 2026    |
+| 4005 | [Minimum Operations to Make Array Equal III](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii>)       | Hard    |        | [solution](<../_4005. Minimum Operations to Make Array Equal III.md>)    | java        | Jun 09, 2026    |
+| 4007 | [Widest Possible Fence](<https://leetcode.com/problems/widest-possible-fence>)                                                 | Medium  |        | [solution](<../_4007. Widest Possible Fence.md>)                         | java        | Jun 10, 2026    |

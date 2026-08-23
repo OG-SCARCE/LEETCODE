@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (43 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -49,3 +49,4 @@
 | 3558 | [Number of Ways to Assign Edge Weights I](<https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i>)                                           | Medium  |           | [solution](<../_3558. Number of Ways to Assign Edge Weights I.md>)                      | java        | Jul 02, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                       | Medium  |           | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                    | java        | Jul 21, 2026    |
 | 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                                 | Medium  |           | [solution](<../_3918. Sum of Primes Between Number and Its Reverse.md>)                 | java        | Aug 22, 2026    |
+| 4005 | [Minimum Operations to Make Array Equal III](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii>)                                     | Hard    |           | [solution](<../_4005. Minimum Operations to Make Array Equal III.md>)                   | java        | Jun 09, 2026    |

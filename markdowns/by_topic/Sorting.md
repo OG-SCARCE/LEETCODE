@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (30 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (31 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,3 +36,4 @@
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                             | Medium  |           | [solution](<../_3635. Earliest Finish Time for Land and Water Rides II.md>)               | java        | Aug 07, 2026    |
 | 3812 | [Minimum Edge Toggles on a Tree](<https://leetcode.com/problems/minimum-edge-toggles-on-a-tree>)                                                                 | Hard    |           | [solution](<../_3812. Minimum Edge Toggles on a Tree.md>)                                 | java        | Jul 28, 2026    |
 | 3842 | [Toggle Light Bulbs](<https://leetcode.com/problems/toggle-light-bulbs>)                                                                                         | Easy    |           | [solution](<../_3842. Toggle Light Bulbs.md>)                                             | java        | Jun 12, 2026    |
+| 3962 | [Maximum Subarray Sum After at Most K Swaps](<https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps>)                                         | Hard    |           | [solution](<../_3962. Maximum Subarray Sum After at Most K Swaps.md>)                     | java        | Jun 24, 2026    |

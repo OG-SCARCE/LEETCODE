@@ -1,4 +1,4 @@
-# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (5 completed)
+# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (6 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -11,3 +11,4 @@
 | 2714 | [Find Shortest Path with K Hops](<https://leetcode.com/problems/find-shortest-path-with-k-hops>)                                       | Hard    |        | [solution](<../_2714. Find Shortest Path with K Hops.md>)                    | java        | Jun 06, 2026    |
 | 3275 | [K-th Nearest Obstacle Queries](<https://leetcode.com/problems/k-th-nearest-obstacle-queries>)                                         | Medium  |        | [solution](<../_3275. K-th Nearest Obstacle Queries.md>)                     | java        | Jul 30, 2026    |
 | 3408 | [Design Task Manager](<https://leetcode.com/problems/design-task-manager>)                                                             | Medium  |        | [solution](<../_3408. Design Task Manager.md>)                               | java        | May 26, 2026    |
+| 3962 | [Maximum Subarray Sum After at Most K Swaps](<https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps>)               | Hard    |        | [solution](<../_3962. Maximum Subarray Sum After at Most K Swaps.md>)        | java        | Jun 24, 2026    |

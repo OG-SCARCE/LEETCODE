@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (14 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (15 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -20,3 +20,4 @@
 | 2892 | [Minimizing Array After Replacing Pairs With Their Product](<https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product>) | Medium  |           | [solution](<../_2892. Minimizing Array After Replacing Pairs With Their Product.md>) | java        | May 14, 2026    |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                   | Medium  |           | [solution](<../_3635. Earliest Finish Time for Land and Water Rides II.md>)          | java        | Aug 07, 2026    |
 | 3919 | [Minimum Cost to Move Between Indices](<https://leetcode.com/problems/minimum-cost-to-move-between-indices>)                                           | Medium  |           | [solution](<../_3919. Minimum Cost to Move Between Indices.md>)                      | java        | Jul 04, 2026    |
+| 3962 | [Maximum Subarray Sum After at Most K Swaps](<https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps>)                               | Hard    |           | [solution](<../_3962. Maximum Subarray Sum After at Most K Swaps.md>)                | java        | Jun 24, 2026    |
