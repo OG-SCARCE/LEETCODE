@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (127 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (128 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -77,6 +77,7 @@
 |  303 | [Range Sum Query - Immutable](<https://leetcode.com/problems/range-sum-query-immutable>)                                                                         | Easy    |                  | [solution](<../_303. Range Sum Query - Immutable.md>)                                     | java        | Jun 22, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<../_486. Predict the Winner.md>)                                              | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
+|  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |                  | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | Aug 24, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                         | Medium  |                  | [solution](<../_909. Snakes and Ladders.md>)                                              | java        | Aug 03, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |                  | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        | Aug 12, 2026    |
 | 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                                                               | Medium  |                  | [solution](<../_1222. Queens That Can Attack the King.md>)                                | java        | Jul 06, 2026    |

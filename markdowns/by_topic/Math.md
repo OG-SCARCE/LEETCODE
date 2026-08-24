@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (44 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (45 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -38,6 +38,7 @@
 |  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                                                               | Easy    |           | [solution](<../_342. Power of Four.md>)                                                 | java        | Jun 22, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                     | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                            | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                         | Easy    | Daily     | [solution](<../_628. Maximum Product of Three Numbers.md>)                              | java        | Jul 26, 2026    |
+|  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                               | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)                                         | java        | Aug 24, 2026    |
 | 1256 | [Encode Number](<https://leetcode.com/problems/encode-number>)                                                                                               | Medium  |           | [solution](<../_1256. Encode Number.md>)                                                | java        | Jul 12, 2026    |
 | 1447 | [Simplified Fractions](<https://leetcode.com/problems/simplified-fractions>)                                                                                 | Medium  |           | [solution](<../_1447. Simplified Fractions.md>)                                         | java        | May 18, 2026    |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](<https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array>)                               | Medium  |           | [solution](<../_1685. Sum of Absolute Differences in a Sorted Array.md>)                | java        | Aug 17, 2026    |
