@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (303 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (304 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -311,6 +311,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4057 | Question 4057                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4057. Question 4057.md>)                                                  | java        |
 | 4074 | Question 4074                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4074. Question 4074.md>)                                                  | java        |
 | 4075 | Question 4075                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4075. Question 4075.md>)                                                  | java        |
+| 4080 | Question 4080                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4080. Question 4080.md>)                                                  | java        |
 | 4107 | Question 4107                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4107. Question 4107.md>)                                                  | java        |
 | 4128 | Question 4128                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4128. Question 4128.md>)                                                  | java        |
 | 4135 | Question 4135                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4135. Question 4135.md>)                                                  | java        |
