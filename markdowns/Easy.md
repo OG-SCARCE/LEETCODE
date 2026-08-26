@@ -1,4 +1,4 @@
-# Easy Questions (87)
+# Easy Questions (88)
 
 *[Back to top](<../README.md>)*
 
@@ -85,6 +85,7 @@
 | 2634 | [Filter Elements from Array](<https://leetcode.com/problems/filter-elements-from-array>)                                                         | Easy    |           | [solution](<_2634. Filter Elements from Array.md>)                             | java        | May 19, 2026    |
 | 2639 | [Find the Width of Columns of a Grid](<https://leetcode.com/problems/find-the-width-of-columns-of-a-grid>)                                       | Easy    |           | [solution](<_2639. Find the Width of Columns of a Grid.md>)                    | java        | May 11, 2026    |
 | 2855 | [Minimum Right Shifts to Sort the Array](<https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array>)                                 | Easy    |           | [solution](<_2855. Minimum Right Shifts to Sort the Array.md>)                 | java        | May 10, 2026    |
+| 3150 | [Invalid Tweets II](<https://leetcode.com/problems/invalid-tweets-ii>)                                                                           | Easy    |           | [solution](<_3150. Invalid Tweets II.md>)                                      | java        | Aug 26, 2026    |
 | 3349 | [Adjacent Increasing Subarrays Detection I](<https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i>)                           | Easy    |           | [solution](<_3349. Adjacent Increasing Subarrays Detection I.md>)              | java        | Aug 14, 2026    |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](<https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k>)         | Easy    |           | [solution](<_3375. Minimum Operations to Make Array Values Equal to K.md>)     | java        | Aug 21, 2026    |
 | 3606 | [Coupon Code Validator](<https://leetcode.com/problems/coupon-code-validator>)                                                                   | Easy    |           | [solution](<_3606. Coupon Code Validator.md>)                                  | java        | May 29, 2026    |
