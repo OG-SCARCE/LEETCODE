@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (306 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (308 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -343,10 +343,12 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4365 | Question 4365                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4365. Question 4365.md>)                                                  | java        |
 | 4369 | Question 4369                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4369. Question 4369.md>)                                                  | java        |
 | 4371 | Question 4371                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4371. Question 4371.md>)                                                  | java        |
+| 4373 | Question 4373                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4373. Question 4373.md>)                                                  | java        |
 | 4375 | Question 4375                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4375. Question 4375.md>)                                                  | java        |
 | 4378 | Question 4378                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4378. Question 4378.md>)                                                  | java        |
 | 4381 | Question 4381                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4381. Question 4381.md>)                                                  | java        |
 | 4383 | Question 4383                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4383. Question 4383.md>)                                                  | java        |
 | 4384 | Question 4384                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4384. Question 4384.md>)                                                  | java        |
+| 4390 | Question 4390                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4390. Question 4390.md>)                                                  | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
