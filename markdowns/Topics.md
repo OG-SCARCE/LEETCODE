@@ -5,12 +5,12 @@
 ------
 
 - [Array](<by_topic/Array.md>) (128 completed)
-- [String](<by_topic/String.md>) (57 completed)
+- [String](<by_topic/String.md>) (58 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (51 completed)
 - [Math](<by_topic/Math.md>) (45 completed)
 - [Tree](<by_topic/Tree.md>) (40 completed)
+- [Two Pointers](<by_topic/Two Pointers.md>) (36 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (36 completed)
-- [Two Pointers](<by_topic/Two Pointers.md>) (35 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (32 completed)
 - [Sorting](<by_topic/Sorting.md>) (31 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (30 completed)

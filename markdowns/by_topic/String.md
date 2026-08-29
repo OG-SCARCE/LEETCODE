@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (57 completed)
+# [String](<https://leetcode.com/tag/String/>) (58 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 |  242 | [Valid Anagram](<https://leetcode.com/problems/valid-anagram>)                                                                                         | Easy    | B75, N150 | [solution](<../_242. Valid Anagram.md>)                                              | java        | Jun 18, 2026    |
 |  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                                                 | Easy    |           | [solution](<../_257. Binary Tree Paths.md>)                                          | java        | Jun 18, 2026    |
 |  290 | [Word Pattern](<https://leetcode.com/problems/word-pattern>)                                                                                           | Easy    |           | [solution](<../_290. Word Pattern.md>)                                               | java        | Jun 21, 2026    |
+|  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                                       | Easy    |           | [solution](<../_344. Reverse String.md>)                                             | java        | Aug 28, 2026    |
 | 1234 | [Replace the Substring for Balanced String](<https://leetcode.com/problems/replace-the-substring-for-balanced-string>)                                 | Medium  |           | [solution](<../_1234. Replace the Substring for Balanced String.md>)                 | java        | Jul 05, 2026    |
 | 1256 | [Encode Number](<https://leetcode.com/problems/encode-number>)                                                                                         | Medium  |           | [solution](<../_1256. Encode Number.md>)                                             | java        | Jul 12, 2026    |
 | 1297 | [Maximum Number of Occurrences of a Substring](<https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring>)                           | Medium  |           | [solution](<../_1297. Maximum Number of Occurrences of a Substring.md>)              | java        | Jun 22, 2026    |
