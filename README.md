@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (308 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (309 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -308,7 +308,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3967 | [Finish Time of Tasks II](<https://leetcode.com/problems/finish-time-of-tasks-ii>)                                                                               | Hard    |                  | [solution](<markdowns/_3967. Finish Time of Tasks II.md>)                                        | java        |
 | 3995 | [Minimum Cost to Convert String III](<https://leetcode.com/problems/minimum-cost-to-convert-string-iii>)                                                         | Hard    |                  | [solution](<markdowns/_3995. Minimum Cost to Convert String III.md>)                             | java        |
 | 4005 | [Minimum Operations to Make Array Equal III](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii>)                                         | Hard    |                  | [solution](<markdowns/_4005. Minimum Operations to Make Array Equal III.md>)                     | java        |
-| 4007 | [Widest Possible Fence](<https://leetcode.com/problems/widest-possible-fence>)                                                                                   | Medium  |                  | [solution](<markdowns/_4007. Widest Possible Fence.md>)                                          | java        |
+| 4007 | [Widest Possible Fence](<https://leetcode.com/problems/widest-possible-fence>)                                                                                   | Hard    |                  | [solution](<markdowns/_4007. Widest Possible Fence.md>)                                          | java        |
 | 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                                                         | Hard    |                  | [solution](<markdowns/_4033. Valid K-Unique Subarrays I.md>)                                     | java        |
 | 4057 | Question 4057                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4057. Question 4057.md>)                                                  | java        |
 | 4074 | Question 4074                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4074. Question 4074.md>)                                                  | java        |
@@ -350,5 +350,6 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4383 | Question 4383                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4383. Question 4383.md>)                                                  | java        |
 | 4384 | Question 4384                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4384. Question 4384.md>)                                                  | java        |
 | 4390 | Question 4390                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4390. Question 4390.md>)                                                  | java        |
+| 4410 | Question 4410                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4410. Question 4410.md>)                                                  | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
