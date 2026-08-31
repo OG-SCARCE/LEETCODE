@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (22 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (23 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -19,6 +19,7 @@
 |  222 | [Count Complete Tree Nodes](<https://leetcode.com/problems/count-complete-tree-nodes>)                                                                           | Medium  |                  | [solution](<../_222. Count Complete Tree Nodes.md>)                                       | java        | Jun 17, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150        | [solution](<../_268. Missing Number.md>)                                                  | java        | Jun 19, 2026    |
 |  278 | [First Bad Version](<https://leetcode.com/problems/first-bad-version>)                                                                                           | Easy    |                  | [solution](<../_278. First Bad Version.md>)                                               | java        | Jun 20, 2026    |
+|  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |                  | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 31, 2026    |
 | 1428 | [Leftmost Column with at Least a One](<https://leetcode.com/problems/leftmost-column-with-at-least-a-one>)                                                       | Medium  |                  | [solution](<../_1428. Leftmost Column with at Least a One.md>)                            | java        | May 17, 2026    |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](<https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted>)                     | Medium  |                  | [solution](<../_1574. Shortest Subarray to be Removed to Make Array Sorted.md>)           | java        | Jul 27, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                             | Hard    |                  | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                               | java        | May 13, 2026    |

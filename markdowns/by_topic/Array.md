@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (128 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (129 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -75,6 +75,7 @@
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150        | [solution](<../_268. Missing Number.md>)                                                  | java        | Jun 19, 2026    |
 |  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                                                       | Easy    |                  | [solution](<../_283. Move Zeroes.md>)                                                     | java        | Jun 20, 2026    |
 |  303 | [Range Sum Query - Immutable](<https://leetcode.com/problems/range-sum-query-immutable>)                                                                         | Easy    |                  | [solution](<../_303. Range Sum Query - Immutable.md>)                                     | java        | Jun 22, 2026    |
+|  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |                  | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 31, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<../_486. Predict the Winner.md>)                                              | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |                  | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | Aug 24, 2026    |
