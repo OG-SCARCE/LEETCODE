@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (312 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (313 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -191,6 +191,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  203 | [Remove Linked List Elements](<https://leetcode.com/problems/remove-linked-list-elements>)                                                                       | Easy    |                  | [solution](<markdowns/_203. Remove Linked List Elements.md>)                                     | java        |
 |  205 | [Isomorphic Strings](<https://leetcode.com/problems/isomorphic-strings>)                                                                                         | Easy    |                  | [solution](<markdowns/_205. Isomorphic Strings.md>)                                              | java        |
 |  206 | [Reverse Linked List](<https://leetcode.com/problems/reverse-linked-list>)                                                                                       | Easy    | B75, N150        | [solution](<markdowns/_206. Reverse Linked List.md>)                                             | java        |
+|  213 | [House Robber II](<https://leetcode.com/problems/house-robber-ii>)                                                                                               | Medium  | B75, N150        | [solution](<markdowns/_213. House Robber II.md>)                                                 | java        |
 |  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                                                         | Easy    | B75, N150        | [solution](<markdowns/_217. Contains Duplicate.md>)                                              | java        |
 |  219 | [Contains Duplicate II](<https://leetcode.com/problems/contains-duplicate-ii>)                                                                                   | Easy    |                  | [solution](<markdowns/_219. Contains Duplicate II.md>)                                           | java        |
 |  222 | [Count Complete Tree Nodes](<https://leetcode.com/problems/count-complete-tree-nodes>)                                                                           | Medium  |                  | [solution](<markdowns/_222. Count Complete Tree Nodes.md>)                                       | java        |

@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (129 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (130 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -69,6 +69,7 @@
 |  189 | [Rotate Array](<https://leetcode.com/problems/rotate-array>)                                                                                                     | Medium  |                  | [solution](<../_189. Rotate Array.md>)                                                    | java        | Jun 14, 2026    |
 |  198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                                                                                     | Medium  | B75, N150        | [solution](<../_198. House Robber.md>)                                                    | java        | Jun 15, 2026    |
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                                           | Medium  | B75, N150        | [solution](<../_200. Number of Islands.md>)                                               | java        | Jun 15, 2026    |
+|  213 | [House Robber II](<https://leetcode.com/problems/house-robber-ii>)                                                                                               | Medium  | B75, N150        | [solution](<../_213. House Robber II.md>)                                                 | java        | Sep 05, 2026    |
 |  217 | [Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)                                                                                         | Easy    | B75, N150        | [solution](<../_217. Contains Duplicate.md>)                                              | java        | Jun 16, 2026    |
 |  219 | [Contains Duplicate II](<https://leetcode.com/problems/contains-duplicate-ii>)                                                                                   | Easy    |                  | [solution](<../_219. Contains Duplicate II.md>)                                           | java        | Jun 17, 2026    |
 |  228 | [Summary Ranges](<https://leetcode.com/problems/summary-ranges>)                                                                                                 | Easy    |                  | [solution](<../_228. Summary Ranges.md>)                                                  | java        | Jun 17, 2026    |

@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (36 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (37 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -29,6 +29,7 @@
 |  139 | [Word Break](<https://leetcode.com/problems/word-break>)                                                                                               | Medium  | B75, N150 | [solution](<../_139. Word Break.md>)                                                 | java        | Jun 06, 2026    |
 |  152 | [Maximum Product Subarray](<https://leetcode.com/problems/maximum-product-subarray>)                                                                   | Medium  | B75, N150 | [solution](<../_152. Maximum Product Subarray.md>)                                   | java        | Jun 13, 2026    |
 |  198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                                                                           | Medium  | B75, N150 | [solution](<../_198. House Robber.md>)                                               | java        | Jun 15, 2026    |
+|  213 | [House Robber II](<https://leetcode.com/problems/house-robber-ii>)                                                                                     | Medium  | B75, N150 | [solution](<../_213. House Robber II.md>)                                            | java        | Sep 05, 2026    |
 |  338 | [Counting Bits](<https://leetcode.com/problems/counting-bits>)                                                                                         | Easy    | B75, N150 | [solution](<../_338. Counting Bits.md>)                                              | java        | Jun 22, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                               | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                         | java        | Aug 01, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>)                     | Hard    |           | [solution](<../_1617. Count Subtrees With Max Distance Between Cities.md>)           | java        | Aug 10, 2026    |
