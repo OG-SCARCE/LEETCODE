@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (313 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (315 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -355,5 +355,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4384 | Question 4384                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4384. Question 4384.md>)                                                  | java        |
 | 4390 | Question 4390                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4390. Question 4390.md>)                                                  | java        |
 | 4410 | Question 4410                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4410. Question 4410.md>)                                                  | java        |
+| 4411 | Question 4411                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4411. Question 4411.md>)                                                  | java        |
+| 4412 | Question 4412                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4412. Question 4412.md>)                                                  | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
