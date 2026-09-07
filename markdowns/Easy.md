@@ -1,4 +1,4 @@
-# Easy Questions (91)
+# Easy Questions (92)
 
 *[Back to top](<../README.md>)*
 
@@ -73,6 +73,7 @@
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                                 | Easy    |           | [solution](<_344. Reverse String.md>)                                          | java        | Aug 28, 2026    |
 |  345 | [Reverse Vowels of a String](<https://leetcode.com/problems/reverse-vowels-of-a-string>)                                                         | Easy    |           | [solution](<_345. Reverse Vowels of a String.md>)                              | java        | Sep 01, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                         | Easy    |           | [solution](<_349. Intersection of Two Arrays.md>)                              | java        | Aug 31, 2026    |
+|  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                   | Easy    |           | [solution](<_350. Intersection of Two Arrays II.md>)                           | java        | Sep 07, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                             | Easy    | Daily     | [solution](<_628. Maximum Product of Three Numbers.md>)                        | java        | Jul 26, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                   | Easy    |           | [solution](<_812. Largest Triangle Area.md>)                                   | java        | Aug 24, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)               | Easy    |           | [solution](<_1013. Partition Array Into Three Parts With Equal Sum.md>)        | java        | Aug 12, 2026    |

@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (52 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (53 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,6 +35,7 @@
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                         | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                             | java        | Jun 19, 2026    |
 |  290 | [Word Pattern](<https://leetcode.com/problems/word-pattern>)                                                                                             | Easy    |           | [solution](<../_290. Word Pattern.md>)                                               | java        | Jun 21, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                 | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                 | java        | Aug 31, 2026    |
+|  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                           | Easy    |           | [solution](<../_350. Intersection of Two Arrays II.md>)                              | java        | Sep 07, 2026    |
 | 1297 | [Maximum Number of Occurrences of a Substring](<https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring>)                             | Medium  |           | [solution](<../_1297. Maximum Number of Occurrences of a Substring.md>)              | java        | Jun 22, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                         | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                                    | java        | Jul 20, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                             | Easy    |           | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)              | java        | Jun 30, 2026    |

@@ -4,18 +4,18 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (130 completed)
+- [Array](<by_topic/Array.md>) (131 completed)
 - [String](<by_topic/String.md>) (59 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (52 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (53 completed)
 - [Math](<by_topic/Math.md>) (45 completed)
 - [Tree](<by_topic/Tree.md>) (40 completed)
-- [Two Pointers](<by_topic/Two Pointers.md>) (38 completed)
+- [Two Pointers](<by_topic/Two Pointers.md>) (39 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (37 completed)
-- [Sorting](<by_topic/Sorting.md>) (32 completed)
+- [Sorting](<by_topic/Sorting.md>) (33 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (32 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (30 completed)
 - [Linked List](<by_topic/Linked List.md>) (24 completed)
-- [Binary Search](<by_topic/Binary Search.md>) (23 completed)
+- [Binary Search](<by_topic/Binary Search.md>) (24 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (22 completed)
 - [Matrix](<by_topic/Matrix.md>) (19 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (18 completed)

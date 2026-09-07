@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (315 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (316 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -217,6 +217,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                                                 | Easy    |                  | [solution](<markdowns/_344. Reverse String.md>)                                                  | java        |
 |  345 | [Reverse Vowels of a String](<https://leetcode.com/problems/reverse-vowels-of-a-string>)                                                                         | Easy    |                  | [solution](<markdowns/_345. Reverse Vowels of a String.md>)                                      | java        |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |                  | [solution](<markdowns/_349. Intersection of Two Arrays.md>)                                      | java        |
+|  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                   | Easy    |                  | [solution](<markdowns/_350. Intersection of Two Arrays II.md>)                                   | java        |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<markdowns/_486. Predict the Winner.md>)                                              | java        |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<markdowns/_628. Maximum Product of Three Numbers.md>)                                | java        |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |                  | [solution](<markdowns/_812. Largest Triangle Area.md>)                                           | java        |
