@@ -4,13 +4,13 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (131 completed)
+- [Array](<by_topic/Array.md>) (132 completed)
 - [String](<by_topic/String.md>) (59 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (53 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (54 completed)
 - [Math](<by_topic/Math.md>) (45 completed)
 - [Tree](<by_topic/Tree.md>) (40 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (39 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (37 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (38 completed)
 - [Sorting](<by_topic/Sorting.md>) (33 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (32 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (30 completed)
