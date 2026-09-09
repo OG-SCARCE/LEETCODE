@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (132 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (133 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -81,6 +81,7 @@
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<../_486. Predict the Winner.md>)                                              | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                               | Medium  |                  | [solution](<../_740. Delete and Earn.md>)                                                 | java        | Sep 08, 2026    |
+|  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |                  | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Sep 09, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |                  | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | Aug 24, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                         | Medium  |                  | [solution](<../_909. Snakes and Ladders.md>)                                              | java        | Aug 03, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |                  | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        | Aug 12, 2026    |

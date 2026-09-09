@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (38 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,6 +33,7 @@
 |  338 | [Counting Bits](<https://leetcode.com/problems/counting-bits>)                                                                                         | Easy    | B75, N150 | [solution](<../_338. Counting Bits.md>)                                              | java        | Jun 22, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                               | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                         | java        | Aug 01, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                     | Medium  |           | [solution](<../_740. Delete and Earn.md>)                                            | java        | Sep 08, 2026    |
+| 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                           | Easy    |           | [solution](<../_1025. Divisor Game.md>)                                              | java        | Sep 09, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>)                     | Hard    |           | [solution](<../_1617. Count Subtrees With Max Distance Between Cities.md>)           | java        | Aug 10, 2026    |
 | 2892 | [Minimizing Array After Replacing Pairs With Their Product](<https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product>) | Medium  |           | [solution](<../_2892. Minimizing Array After Replacing Pairs With Their Product.md>) | java        | May 14, 2026    |
 | 3225 | [Maximum Score From Grid Operations](<https://leetcode.com/problems/maximum-score-from-grid-operations>)                                               | Hard    |           | [solution](<../_3225. Maximum Score From Grid Operations.md>)                        | java        | Aug 12, 2026    |

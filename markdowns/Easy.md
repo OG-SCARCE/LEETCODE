@@ -1,4 +1,4 @@
-# Easy Questions (92)
+# Easy Questions (94)
 
 *[Back to top](<../README.md>)*
 
@@ -75,8 +75,10 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                         | Easy    |           | [solution](<_349. Intersection of Two Arrays.md>)                              | java        | Aug 31, 2026    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                   | Easy    |           | [solution](<_350. Intersection of Two Arrays II.md>)                           | java        | Sep 07, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                             | Easy    | Daily     | [solution](<_628. Maximum Product of Three Numbers.md>)                        | java        | Jul 26, 2026    |
+|  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                               | Easy    |           | [solution](<_747. Largest Number At Least Twice of Others.md>)                 | java        | Sep 09, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                   | Easy    |           | [solution](<_812. Largest Triangle Area.md>)                                   | java        | Aug 24, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)               | Easy    |           | [solution](<_1013. Partition Array Into Three Parts With Equal Sum.md>)        | java        | Aug 12, 2026    |
+| 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                     | Easy    |           | [solution](<_1025. Divisor Game.md>)                                           | java        | Sep 09, 2026    |
 | 1446 | [Consecutive Characters](<https://leetcode.com/problems/consecutive-characters>)                                                                 | Easy    |           | [solution](<_1446. Consecutive Characters.md>)                                 | java        | Jun 18, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                     | Easy    |           | [solution](<_1460. Make Two Arrays Equal by Reversing Subarrays.md>)           | java        | Jun 30, 2026    |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](<https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones>) | Easy    |           | [solution](<_1784. Check if Binary String Has at Most One Segment of Ones.md>) | java        | May 12, 2026    |
