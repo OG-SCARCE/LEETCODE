@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (59 completed)
+# [String](<https://leetcode.com/tag/String/>) (60 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -59,6 +59,7 @@
 | 3435 | [Frequencies of Shortest Supersequences](<https://leetcode.com/problems/frequencies-of-shortest-supersequences>)                                       | Hard    |           | [solution](<../_3435. Frequencies of Shortest Supersequences.md>)                    | java        | May 30, 2026    |
 | 3561 | [Resulting String After Adjacent Removals](<https://leetcode.com/problems/resulting-string-after-adjacent-removals>)                                   | Medium  |           | [solution](<../_3561. Resulting String After Adjacent Removals.md>)                  | java        | Aug 05, 2026    |
 | 3606 | [Coupon Code Validator](<https://leetcode.com/problems/coupon-code-validator>)                                                                         | Easy    |           | [solution](<../_3606. Coupon Code Validator.md>)                                     | java        | May 29, 2026    |
+| 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                                                     | Medium  |           | [solution](<../_3799. Word Squares II.md>)                                           | java        | Sep 11, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                 | Medium  |           | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                 | java        | Jul 21, 2026    |
 | 3813 | [Vowel-Consonant Score](<https://leetcode.com/problems/vowel-consonant-score>)                                                                         | Easy    |           | [solution](<../_3813. Vowel-Consonant Score.md>)                                     | java        | Jul 29, 2026    |
 | 3838 | [Weighted Word Mapping](<https://leetcode.com/problems/weighted-word-mapping>)                                                                         | Easy    |           | [solution](<../_3838. Weighted Word Mapping.md>)                                     | java        | Jul 09, 2026    |

@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (133 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (134 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -123,6 +123,7 @@
 | 3584 | [Maximum Product of First and Last Elements of a Subsequence](<https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence>)       | Medium  |                  | [solution](<../_3584. Maximum Product of First and Last Elements of a Subsequence.md>)    | java        | Aug 08, 2026    |
 | 3606 | [Coupon Code Validator](<https://leetcode.com/problems/coupon-code-validator>)                                                                                   | Easy    |                  | [solution](<../_3606. Coupon Code Validator.md>)                                          | java        | May 29, 2026    |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                             | Medium  |                  | [solution](<../_3635. Earliest Finish Time for Land and Water Rides II.md>)               | java        | Aug 07, 2026    |
+| 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                                                               | Medium  |                  | [solution](<../_3799. Word Squares II.md>)                                                | java        | Sep 11, 2026    |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                                     | Medium  |                  | [solution](<../_3804. Number of Centered Subarrays.md>)                                   | java        | Jul 23, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                           | Medium  |                  | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                      | java        | Jul 21, 2026    |
 | 3824 | [Minimum K to Reduce Array Within Limit](<https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit>)                                                 | Medium  |                  | [solution](<../_3824. Minimum K to Reduce Array Within Limit.md>)                         | java        | Jul 23, 2026    |

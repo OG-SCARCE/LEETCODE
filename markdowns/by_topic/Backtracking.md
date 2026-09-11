@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (18 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (19 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,3 +24,4 @@
 |  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                   | Easy    |           | [solution](<../_257. Binary Tree Paths.md>)                           | java        | Jun 18, 2026    |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](<https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares>) | Hard    |           | [solution](<../_1240. Tiling a Rectangle with the Fewest Squares.md>) | java        | Aug 09, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                           | Medium  |           | [solution](<../_3376. Minimum Time to Break Locks I.md>)              | java        | May 29, 2026    |
+| 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                       | Medium  |           | [solution](<../_3799. Word Squares II.md>)                            | java        | Sep 11, 2026    |
