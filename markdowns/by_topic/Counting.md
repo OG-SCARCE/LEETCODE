@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (9 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                          | Level   | Cats   | Solution                                                                 | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:-------------------------------------------------------------------------|:------------|:----------------|
 |  169 | [Majority Element](<https://leetcode.com/problems/majority-element>)                                                           | Easy    |        | [solution](<../_169. Majority Element.md>)                               | java        | Jun 08, 2026    |
+| 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)               | Hard    |        | [solution](<../_1121. Divide Array Into Increasing Sequences.md>)        | java        | Sep 12, 2026    |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](<https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles>) | Medium  |        | [solution](<../_2001. Number of Pairs of Interchangeable Rectangles.md>) | java        | May 25, 2026    |
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                             | Easy    |        | [solution](<../_2248. Intersection of Multiple Arrays.md>)               | java        | Jun 01, 2026    |
 | 3583 | [Count Special Triplets](<https://leetcode.com/problems/count-special-triplets>)                                               | Medium  |        | [solution](<../_3583. Count Special Triplets.md>)                        | java        | Jul 17, 2026    |

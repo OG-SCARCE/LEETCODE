@@ -1,4 +1,4 @@
-# Hard Questions (28)
+# Hard Questions (29)
 
 *[Back to top](<../README.md>)*
 
@@ -7,6 +7,7 @@
 |    # | Title                                                                                                                                                            | Level   | Cats   | Solution                                                                               | Languages   | Date Complete   |
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:---------------------------------------------------------------------------------------|:------------|:----------------|
 |  154 | [Find Minimum in Rotated Sorted Array II](<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii>)                                               | Hard    | Daily  | [solution](<_154. Find Minimum in Rotated Sorted Array II.md>)                         | java        | May 16, 2026    |
+| 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)                                                 | Hard    |        | [solution](<_1121. Divide Array Into Increasing Sequences.md>)                         | java        | Sep 12, 2026    |
 | 1159 | [Market Analysis II](<https://leetcode.com/problems/market-analysis-ii>)                                                                                         | Hard    |        | [solution](<_1159. Market Analysis II.md>)                                             | java        | Jul 19, 2026    |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](<https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares>)                                         | Hard    |        | [solution](<_1240. Tiling a Rectangle with the Fewest Squares.md>)                     | java        | Aug 09, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>)                               | Hard    |        | [solution](<_1617. Count Subtrees With Max Distance Between Cities.md>)                | java        | Aug 10, 2026    |
