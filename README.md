@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (326 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (328 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -339,6 +339,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4316 | Question 4316                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4316. Question 4316.md>)                                                  | java        |
 | 4321 | Question 4321                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4321. Question 4321.md>)                                                  | java        |
 | 4323 | Question 4323                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4323. Question 4323.md>)                                                  | java        |
+| 4328 | Question 4328                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4328. Question 4328.md>)                                                  | java        |
 | 4332 | Question 4332                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4332. Question 4332.md>)                                                  | java        |
 | 4338 | Question 4338                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4338. Question 4338.md>)                                                  | java        |
 | 4341 | Question 4341                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4341. Question 4341.md>)                                                  | java        |
@@ -368,5 +369,6 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4412 | Question 4412                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4412. Question 4412.md>)                                                  | java        |
 | 4414 | Question 4414                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4414. Question 4414.md>)                                                  | java        |
 | 4415 | Question 4415                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4415. Question 4415.md>)                                                  | java        |
+| 4416 | Question 4416                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4416. Question 4416.md>)                                                  | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
