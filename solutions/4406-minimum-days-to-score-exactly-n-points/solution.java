@@ -6,7 +6,7 @@ class Solution {
 
         dp[0] = -1;
 
-        for (int i = 0; i<= n; i++){
+        for (int i = 0; i <= n; i++){
             if(dp[i] == Integer.MAX_VALUE){
                 continue;
             }
@@ -29,3 +29,8 @@ class Solution {
         return dp[n];
     }
 }
+// i      → Abhi kitne SCORE hain?
+// k      → Kitne DAYS ka streak try kar raha?
+// points → Us streak se kitne POINTS milenge?
+// j      → Streak ke baad NEW SCORE kya hoga?
+// days   → Wahan pahunchne mein TOTAL DAYS kitne lagenge?
