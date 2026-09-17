@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (135 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (136 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -87,6 +87,7 @@
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |                  | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        | Aug 12, 2026    |
 | 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)                                                 | Hard    |                  | [solution](<../_1121. Divide Array Into Increasing Sequences.md>)                         | java        | Sep 12, 2026    |
 | 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                                                               | Medium  |                  | [solution](<../_1222. Queens That Can Attack the King.md>)                                | java        | Jul 06, 2026    |
+| 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>)                                                                       | Hard    |                  | [solution](<../_1250. Check If It Is a Good Array.md>)                                    | java        | Sep 15, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                                 | Medium  | Daily            | [solution](<../_1386. Cinema Seat Allocation.md>)                                         | java        | Jul 20, 2026    |
 | 1428 | [Leftmost Column with at Least a One](<https://leetcode.com/problems/leftmost-column-with-at-least-a-one>)                                                       | Medium  |                  | [solution](<../_1428. Leftmost Column with at Least a One.md>)                            | java        | May 17, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                                     | Easy    |                  | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                   | java        | Jun 30, 2026    |

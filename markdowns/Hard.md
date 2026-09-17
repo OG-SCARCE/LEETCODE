@@ -1,4 +1,4 @@
-# Hard Questions (29)
+# Hard Questions (30)
 
 *[Back to top](<../README.md>)*
 
@@ -10,6 +10,7 @@
 | 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)                                                 | Hard    |        | [solution](<_1121. Divide Array Into Increasing Sequences.md>)                         | java        | Sep 12, 2026    |
 | 1159 | [Market Analysis II](<https://leetcode.com/problems/market-analysis-ii>)                                                                                         | Hard    |        | [solution](<_1159. Market Analysis II.md>)                                             | java        | Jul 19, 2026    |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](<https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares>)                                         | Hard    |        | [solution](<_1240. Tiling a Rectangle with the Fewest Squares.md>)                     | java        | Aug 09, 2026    |
+| 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>)                                                                       | Hard    |        | [solution](<_1250. Check If It Is a Good Array.md>)                                    | java        | Sep 15, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>)                               | Hard    |        | [solution](<_1617. Count Subtrees With Max Distance Between Cities.md>)                | java        | Aug 10, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                             | Hard    |        | [solution](<_1793. Maximum Score of a Good Subarray.md>)                               | java        | May 13, 2026    |
 | 1956 | [Minimum Time For K Virus Variants to Spread](<https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread>)                                       | Hard    |        | [solution](<_1956. Minimum Time For K Virus Variants to Spread.md>)                    | java        | Jun 28, 2026    |

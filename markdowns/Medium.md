@@ -1,4 +1,4 @@
-# Medium Questions (155)
+# Medium Questions (156)
 
 *[Back to top](<../README.md>)*
 
@@ -114,6 +114,7 @@
 |  213 | [House Robber II](<https://leetcode.com/problems/house-robber-ii>)                                                                                         | Medium  | B75, N150        | [solution](<_213. House Robber II.md>)                                              | java        | Sep 05, 2026    |
 |  222 | [Count Complete Tree Nodes](<https://leetcode.com/problems/count-complete-tree-nodes>)                                                                     | Medium  |                  | [solution](<_222. Count Complete Tree Nodes.md>)                                    | java        | Jun 17, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                   | Medium  | Daily            | [solution](<_486. Predict the Winner.md>)                                           | java        | Aug 01, 2026    |
+|  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                         | Medium  |                  | [solution](<_516. Longest Palindromic Subsequence.md>)                              | java        | Sep 16, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                         | Medium  |                  | [solution](<_740. Delete and Earn.md>)                                              | java        | Sep 08, 2026    |
 |  866 | [Prime Palindrome](<https://leetcode.com/problems/prime-palindrome>)                                                                                       | Medium  |                  | [solution](<_866. Prime Palindrome.md>)                                             | java        | Sep 14, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                   | Medium  |                  | [solution](<_909. Snakes and Ladders.md>)                                           | java        | Aug 03, 2026    |
