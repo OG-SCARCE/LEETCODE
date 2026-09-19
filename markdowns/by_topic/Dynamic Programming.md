@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (40 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (41 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  152 | [Maximum Product Subarray](<https://leetcode.com/problems/maximum-product-subarray>)                                                                   | Medium  | B75, N150 | [solution](<../_152. Maximum Product Subarray.md>)                                   | java        | Jun 13, 2026    |
 |  198 | [House Robber](<https://leetcode.com/problems/house-robber>)                                                                                           | Medium  | B75, N150 | [solution](<../_198. House Robber.md>)                                               | java        | Jun 15, 2026    |
 |  213 | [House Robber II](<https://leetcode.com/problems/house-robber-ii>)                                                                                     | Medium  | B75, N150 | [solution](<../_213. House Robber II.md>)                                            | java        | Sep 05, 2026    |
+|  300 | [Longest Increasing Subsequence](<https://leetcode.com/problems/longest-increasing-subsequence>)                                                       | Medium  | B75, N150 | [solution](<../_300. Longest Increasing Subsequence.md>)                             | java        | Sep 19, 2026    |
 |  338 | [Counting Bits](<https://leetcode.com/problems/counting-bits>)                                                                                         | Easy    | B75, N150 | [solution](<../_338. Counting Bits.md>)                                              | java        | Jun 22, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                               | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                         | java        | Aug 01, 2026    |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                     | Medium  |           | [solution](<../_516. Longest Palindromic Subsequence.md>)                            | java        | Sep 16, 2026    |

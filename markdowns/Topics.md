@@ -4,17 +4,17 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (136 completed)
+- [Array](<by_topic/Array.md>) (137 completed)
 - [String](<by_topic/String.md>) (61 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (54 completed)
 - [Math](<by_topic/Math.md>) (49 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (40 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (41 completed)
 - [Tree](<by_topic/Tree.md>) (40 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (39 completed)
 - [Sorting](<by_topic/Sorting.md>) (35 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (32 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (30 completed)
-- [Binary Search](<by_topic/Binary Search.md>) (25 completed)
+- [Binary Search](<by_topic/Binary Search.md>) (26 completed)
 - [Linked List](<by_topic/Linked List.md>) (24 completed)
 - [Bit Manipulation](<by_topic/Bit Manipulation.md>) (22 completed)
 - [Backtracking](<by_topic/Backtracking.md>) (19 completed)
@@ -73,6 +73,7 @@
 - [Boyer–Moore Majority Vote Algorithm](<by_topic/Boyer–Moore Majority Vote Algorithm.md>) (1 completed)
 - [Iterator](<by_topic/Iterator.md>) (1 completed)
 - [Nim Game](<by_topic/Nim Game.md>) (1 completed)
+- [Longest Increasing Subsequence](<by_topic/Longest Increasing Subsequence.md>) (1 completed)
 - [Zero-Sum Game](<by_topic/Zero-Sum Game.md>) (1 completed)
 - [Polygons](<by_topic/Polygons.md>) (1 completed)
 - [Primality Test](<by_topic/Primality Test.md>) (1 completed)

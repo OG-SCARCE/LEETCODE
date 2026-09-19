@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (25 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (26 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -19,6 +19,7 @@
 |  222 | [Count Complete Tree Nodes](<https://leetcode.com/problems/count-complete-tree-nodes>)                                                                           | Medium  |                  | [solution](<../_222. Count Complete Tree Nodes.md>)                                       | java        | Jun 17, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150        | [solution](<../_268. Missing Number.md>)                                                  | java        | Jun 19, 2026    |
 |  278 | [First Bad Version](<https://leetcode.com/problems/first-bad-version>)                                                                                           | Easy    |                  | [solution](<../_278. First Bad Version.md>)                                               | java        | Jun 20, 2026    |
+|  300 | [Longest Increasing Subsequence](<https://leetcode.com/problems/longest-increasing-subsequence>)                                                                 | Medium  | B75, N150        | [solution](<../_300. Longest Increasing Subsequence.md>)                                  | java        | Sep 19, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |                  | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 31, 2026    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                   | Easy    |                  | [solution](<../_350. Intersection of Two Arrays II.md>)                                   | java        | Sep 07, 2026    |
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                                                     | Easy    |                  | [solution](<../_367. Valid Perfect Square.md>)                                            | java        | Sep 17, 2026    |

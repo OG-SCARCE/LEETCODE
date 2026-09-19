@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (136 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (137 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -75,6 +75,7 @@
 |  228 | [Summary Ranges](<https://leetcode.com/problems/summary-ranges>)                                                                                                 | Easy    |                  | [solution](<../_228. Summary Ranges.md>)                                                  | java        | Jun 17, 2026    |
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                                                 | Easy    | B75, N150        | [solution](<../_268. Missing Number.md>)                                                  | java        | Jun 19, 2026    |
 |  283 | [Move Zeroes](<https://leetcode.com/problems/move-zeroes>)                                                                                                       | Easy    |                  | [solution](<../_283. Move Zeroes.md>)                                                     | java        | Jun 20, 2026    |
+|  300 | [Longest Increasing Subsequence](<https://leetcode.com/problems/longest-increasing-subsequence>)                                                                 | Medium  | B75, N150        | [solution](<../_300. Longest Increasing Subsequence.md>)                                  | java        | Sep 19, 2026    |
 |  303 | [Range Sum Query - Immutable](<https://leetcode.com/problems/range-sum-query-immutable>)                                                                         | Easy    |                  | [solution](<../_303. Range Sum Query - Immutable.md>)                                     | java        | Jun 22, 2026    |
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |                  | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 31, 2026    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                   | Easy    |                  | [solution](<../_350. Intersection of Two Arrays II.md>)                                   | java        | Sep 07, 2026    |
