@@ -1,4 +1,4 @@
-# Medium Questions (157)
+# Medium Questions (158)
 
 *[Back to top](<../README.md>)*
 
@@ -163,3 +163,4 @@
 | 3919 | [Minimum Cost to Move Between Indices](<https://leetcode.com/problems/minimum-cost-to-move-between-indices>)                                               | Medium  |                  | [solution](<_3919. Minimum Cost to Move Between Indices.md>)                        | java        | Jul 04, 2026    |
 | 3964 | [Minimum Lights to Illuminate a Road](<https://leetcode.com/problems/minimum-lights-to-illuminate-a-road>)                                                 | Medium  |                  | [solution](<_3964. Minimum Lights to Illuminate a Road.md>)                         | java        | Jun 24, 2026    |
 | 3965 | [Finish Time of Tasks I](<https://leetcode.com/problems/finish-time-of-tasks-i>)                                                                           | Medium  |                  | [solution](<_3965. Finish Time of Tasks I.md>)                                      | java        | Jun 02, 2026    |
+| 4057 | [Number of Intersecting Interval Pairs II](<https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii>)                                       | Medium  |                  | [solution](<_4057. Number of Intersecting Interval Pairs II.md>)                    | java        | Jun 04, 2026    |

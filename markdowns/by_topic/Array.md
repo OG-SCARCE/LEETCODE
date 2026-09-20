@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (137 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (138 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -143,3 +143,4 @@
 | 3995 | [Minimum Cost to Convert String III](<https://leetcode.com/problems/minimum-cost-to-convert-string-iii>)                                                         | Hard    |                  | [solution](<../_3995. Minimum Cost to Convert String III.md>)                             | java        | Jul 15, 2026    |
 | 4005 | [Minimum Operations to Make Array Equal III](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii>)                                         | Hard    |                  | [solution](<../_4005. Minimum Operations to Make Array Equal III.md>)                     | java        | Jun 09, 2026    |
 | 4007 | [Widest Possible Fence](<https://leetcode.com/problems/widest-possible-fence>)                                                                                   | Hard    |                  | [solution](<../_4007. Widest Possible Fence.md>)                                          | java        | Jun 10, 2026    |
+| 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                                                         | Hard    |                  | [solution](<../_4033. Valid K-Unique Subarrays I.md>)                                     | java        | Aug 15, 2026    |

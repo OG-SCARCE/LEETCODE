@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (9 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (10 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -15,3 +15,4 @@
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](<https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii>) | Hard    |        | [solution](<../_3347. Maximum Frequency of an Element After Performing Operations II.md>) | java        | Aug 20, 2026    |
 | 3919 | [Minimum Cost to Move Between Indices](<https://leetcode.com/problems/minimum-cost-to-move-between-indices>)                                                     | Medium  |        | [solution](<../_3919. Minimum Cost to Move Between Indices.md>)                           | java        | Jul 04, 2026    |
 | 3964 | [Minimum Lights to Illuminate a Road](<https://leetcode.com/problems/minimum-lights-to-illuminate-a-road>)                                                       | Medium  |        | [solution](<../_3964. Minimum Lights to Illuminate a Road.md>)                            | java        | Jun 24, 2026    |
+| 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                                                         | Hard    |        | [solution](<../_4033. Valid K-Unique Subarrays I.md>)                                     | java        | Aug 15, 2026    |
