@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (335 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (336 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -229,6 +229,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  866 | [Prime Palindrome](<https://leetcode.com/problems/prime-palindrome>)                                                                                             | Medium  |                  | [solution](<markdowns/_866. Prime Palindrome.md>)                                                | java        |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                         | Medium  |                  | [solution](<markdowns/_909. Snakes and Ladders.md>)                                              | java        |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |                  | [solution](<markdowns/_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        |
+| 1022 | [Sum of Root To Leaf Binary Numbers](<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers>)                                                         | Easy    |                  | [solution](<markdowns/_1022. Sum of Root To Leaf Binary Numbers.md>)                             | java        |
 | 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                                     | Easy    |                  | [solution](<markdowns/_1025. Divisor Game.md>)                                                   | java        |
 | 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)                                                 | Hard    |                  | [solution](<markdowns/_1121. Divide Array Into Increasing Sequences.md>)                         | java        |
 | 1159 | [Market Analysis II](<https://leetcode.com/problems/market-analysis-ii>)                                                                                         | Hard    |                  | [solution](<markdowns/_1159. Market Analysis II.md>)                                             | java        |

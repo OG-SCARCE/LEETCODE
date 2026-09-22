@@ -1,4 +1,4 @@
-# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (32 completed)
+# [Binary Tree](<https://leetcode.com/tag/Binary-Tree/>) (33 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -36,5 +36,6 @@
 |  222 | [Count Complete Tree Nodes](<https://leetcode.com/problems/count-complete-tree-nodes>)                                                                   | Medium  |           | [solution](<../_222. Count Complete Tree Nodes.md>)                                  | java        | Jun 17, 2026    |
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                                 | Easy    | B75, N150 | [solution](<../_226. Invert Binary Tree.md>)                                         | java        | Jun 17, 2026    |
 |  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                                                   | Easy    |           | [solution](<../_257. Binary Tree Paths.md>)                                          | java        | Jun 18, 2026    |
+| 1022 | [Sum of Root To Leaf Binary Numbers](<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers>)                                                 | Easy    |           | [solution](<../_1022. Sum of Root To Leaf Binary Numbers.md>)                        | java        | Sep 22, 2026    |
 | 2236 | [Root Equals Sum of Children](<https://leetcode.com/problems/root-equals-sum-of-children>)                                                               | Easy    |           | [solution](<../_2236. Root Equals Sum of Children.md>)                               | java        | Jun 14, 2026    |
 | 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>)                                       | Medium  | Daily     | [solution](<../_2265. Count Nodes Equal to Average of Subtree.md>)                   | java        | Jun 08, 2026    |

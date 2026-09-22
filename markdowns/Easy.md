@@ -1,4 +1,4 @@
-# Easy Questions (95)
+# Easy Questions (96)
 
 *[Back to top](<../README.md>)*
 
@@ -79,6 +79,7 @@
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                               | Easy    |           | [solution](<_747. Largest Number At Least Twice of Others.md>)                 | java        | Sep 09, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                   | Easy    |           | [solution](<_812. Largest Triangle Area.md>)                                   | java        | Aug 24, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)               | Easy    |           | [solution](<_1013. Partition Array Into Three Parts With Equal Sum.md>)        | java        | Aug 12, 2026    |
+| 1022 | [Sum of Root To Leaf Binary Numbers](<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers>)                                         | Easy    |           | [solution](<_1022. Sum of Root To Leaf Binary Numbers.md>)                     | java        | Sep 22, 2026    |
 | 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                     | Easy    |           | [solution](<_1025. Divisor Game.md>)                                           | java        | Sep 09, 2026    |
 | 1446 | [Consecutive Characters](<https://leetcode.com/problems/consecutive-characters>)                                                                 | Easy    |           | [solution](<_1446. Consecutive Characters.md>)                                 | java        | Jun 18, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                     | Easy    |           | [solution](<_1460. Make Two Arrays Equal by Reversing Subarrays.md>)           | java        | Jun 30, 2026    |

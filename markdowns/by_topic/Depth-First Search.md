@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (30 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (31 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -28,6 +28,7 @@
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                           | Medium  | B75, N150 | [solution](<../_200. Number of Islands.md>)                                       | java        | Jun 15, 2026    |
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                         | Easy    | B75, N150 | [solution](<../_226. Invert Binary Tree.md>)                                      | java        | Jun 17, 2026    |
 |  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                                           | Easy    |           | [solution](<../_257. Binary Tree Paths.md>)                                       | java        | Jun 18, 2026    |
+| 1022 | [Sum of Root To Leaf Binary Numbers](<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers>)                                         | Easy    |           | [solution](<../_1022. Sum of Root To Leaf Binary Numbers.md>)                     | java        | Sep 22, 2026    |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](<https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero>) | Medium  |           | [solution](<../_1466. Reorder Routes to Make All Paths Lead to the City Zero.md>) | java        | May 24, 2026    |
 | 1522 | [Diameter of N-Ary Tree](<https://leetcode.com/problems/diameter-of-n-ary-tree>)                                                                 | Medium  |           | [solution](<../_1522. Diameter of N-Ary Tree.md>)                                 | java        | Aug 03, 2026    |
 | 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>)                               | Medium  | Daily     | [solution](<../_2265. Count Nodes Equal to Average of Subtree.md>)                | java        | Jun 08, 2026    |
