@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (138 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (139 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -86,6 +86,7 @@
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |                  | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | Aug 24, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                         | Medium  |                  | [solution](<../_909. Snakes and Ladders.md>)                                              | java        | Aug 03, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                               | Easy    |                  | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)                | java        | Aug 12, 2026    |
+| 1105 | [Filling Bookcase Shelves](<https://leetcode.com/problems/filling-bookcase-shelves>)                                                                             | Medium  |                  | [solution](<../_1105. Filling Bookcase Shelves.md>)                                       | java        | Sep 23, 2026    |
 | 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)                                                 | Hard    |                  | [solution](<../_1121. Divide Array Into Increasing Sequences.md>)                         | java        | Sep 12, 2026    |
 | 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                                                               | Medium  |                  | [solution](<../_1222. Queens That Can Attack the King.md>)                                | java        | Jul 06, 2026    |
 | 1250 | [Check If It Is a Good Array](<https://leetcode.com/problems/check-if-it-is-a-good-array>)                                                                       | Hard    |                  | [solution](<../_1250. Check If It Is a Good Array.md>)                                    | java        | Sep 15, 2026    |

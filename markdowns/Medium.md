@@ -1,4 +1,4 @@
-# Medium Questions (158)
+# Medium Questions (160)
 
 *[Back to top](<../README.md>)*
 
@@ -116,9 +116,11 @@
 |  300 | [Longest Increasing Subsequence](<https://leetcode.com/problems/longest-increasing-subsequence>)                                                           | Medium  | B75, N150        | [solution](<_300. Longest Increasing Subsequence.md>)                               | java        | Sep 19, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                   | Medium  | Daily            | [solution](<_486. Predict the Winner.md>)                                           | java        | Aug 01, 2026    |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                         | Medium  |                  | [solution](<_516. Longest Palindromic Subsequence.md>)                              | java        | Sep 16, 2026    |
+|  583 | [Delete Operation for Two Strings](<https://leetcode.com/problems/delete-operation-for-two-strings>)                                                       | Medium  |                  | [solution](<_583. Delete Operation for Two Strings.md>)                             | java        | Sep 23, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                         | Medium  |                  | [solution](<_740. Delete and Earn.md>)                                              | java        | Sep 08, 2026    |
 |  866 | [Prime Palindrome](<https://leetcode.com/problems/prime-palindrome>)                                                                                       | Medium  |                  | [solution](<_866. Prime Palindrome.md>)                                             | java        | Sep 14, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                                   | Medium  |                  | [solution](<_909. Snakes and Ladders.md>)                                           | java        | Aug 03, 2026    |
+| 1105 | [Filling Bookcase Shelves](<https://leetcode.com/problems/filling-bookcase-shelves>)                                                                       | Medium  |                  | [solution](<_1105. Filling Bookcase Shelves.md>)                                    | java        | Sep 23, 2026    |
 | 1212 | [Team Scores in Football Tournament](<https://leetcode.com/problems/team-scores-in-football-tournament>)                                                   | Medium  |                  | [solution](<_1212. Team Scores in Football Tournament.md>)                          | java        | Jul 13, 2026    |
 | 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                                                         | Medium  |                  | [solution](<_1222. Queens That Can Attack the King.md>)                             | java        | Jul 06, 2026    |
 | 1234 | [Replace the Substring for Balanced String](<https://leetcode.com/problems/replace-the-substring-for-balanced-string>)                                     | Medium  |                  | [solution](<_1234. Replace the Substring for Balanced String.md>)                   | java        | Jul 05, 2026    |

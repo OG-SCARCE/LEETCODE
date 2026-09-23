@@ -4,11 +4,11 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (138 completed)
-- [String](<by_topic/String.md>) (61 completed)
+- [Array](<by_topic/Array.md>) (139 completed)
+- [String](<by_topic/String.md>) (62 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (54 completed)
 - [Math](<by_topic/Math.md>) (49 completed)
-- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (41 completed)
+- [Dynamic Programming](<by_topic/Dynamic Programming.md>) (43 completed)
 - [Tree](<by_topic/Tree.md>) (41 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (39 completed)
 - [Sorting](<by_topic/Sorting.md>) (35 completed)
@@ -76,6 +76,7 @@
 - [Nim Game](<by_topic/Nim Game.md>) (1 completed)
 - [Longest Increasing Subsequence](<by_topic/Longest Increasing Subsequence.md>) (1 completed)
 - [Zero-Sum Game](<by_topic/Zero-Sum Game.md>) (1 completed)
+- [Longest Common Subsequence](<by_topic/Longest Common Subsequence.md>) (1 completed)
 - [Polygons](<by_topic/Polygons.md>) (1 completed)
 - [Primality Test](<by_topic/Primality Test.md>) (1 completed)
 - [Bézout's Lemma](<by_topic/Bézout's Lemma.md>) (1 completed)
