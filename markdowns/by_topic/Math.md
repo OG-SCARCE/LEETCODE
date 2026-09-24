@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (49 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (50 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -53,5 +53,6 @@
 | 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](<https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements>) | Hard    |           | [solution](<../_3405. Count the Number of Arrays with K Matching Adjacent Elements.md>) | java        | May 27, 2026    |
 | 3558 | [Number of Ways to Assign Edge Weights I](<https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i>)                                           | Medium  |           | [solution](<../_3558. Number of Ways to Assign Edge Weights I.md>)                      | java        | Jul 02, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                       | Medium  |           | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                    | java        | Jul 21, 2026    |
+| 3869 | [Count Fancy Numbers in a Range](<https://leetcode.com/problems/count-fancy-numbers-in-a-range>)                                                             | Hard    |           | [solution](<../_3869. Count Fancy Numbers in a Range.md>)                               | java        | Sep 24, 2026    |
 | 3918 | [Sum of Primes Between Number and Its Reverse](<https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse>)                                 | Medium  |           | [solution](<../_3918. Sum of Primes Between Number and Its Reverse.md>)                 | java        | Aug 22, 2026    |
 | 4005 | [Minimum Operations to Make Array Equal III](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii>)                                     | Hard    |           | [solution](<../_4005. Minimum Operations to Make Array Equal III.md>)                   | java        | Jun 09, 2026    |

@@ -1,4 +1,4 @@
-# Hard Questions (30)
+# Hard Questions (31)
 
 *[Back to top](<../README.md>)*
 
@@ -29,6 +29,7 @@
 | 3435 | [Frequencies of Shortest Supersequences](<https://leetcode.com/problems/frequencies-of-shortest-supersequences>)                                                 | Hard    |        | [solution](<_3435. Frequencies of Shortest Supersequences.md>)                         | java        | May 30, 2026    |
 | 3812 | [Minimum Edge Toggles on a Tree](<https://leetcode.com/problems/minimum-edge-toggles-on-a-tree>)                                                                 | Hard    |        | [solution](<_3812. Minimum Edge Toggles on a Tree.md>)                                 | java        | Jul 28, 2026    |
 | 3859 | [Count Subarrays With K Distinct Integers](<https://leetcode.com/problems/count-subarrays-with-k-distinct-integers>)                                             | Hard    |        | [solution](<_3859. Count Subarrays With K Distinct Integers.md>)                       | java        | Jul 25, 2026    |
+| 3869 | [Count Fancy Numbers in a Range](<https://leetcode.com/problems/count-fancy-numbers-in-a-range>)                                                                 | Hard    |        | [solution](<_3869. Count Fancy Numbers in a Range.md>)                                 | java        | Sep 24, 2026    |
 | 3939 | [Count Non Adjacent Subsets in a Rooted Tree](<https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree>)                                       | Hard    |        | [solution](<_3939. Count Non Adjacent Subsets in a Rooted Tree.md>)                    | java        | Jun 17, 2026    |
 | 3962 | [Maximum Subarray Sum After at Most K Swaps](<https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps>)                                         | Hard    |        | [solution](<_3962. Maximum Subarray Sum After at Most K Swaps.md>)                     | java        | Jun 24, 2026    |
 | 3967 | [Finish Time of Tasks II](<https://leetcode.com/problems/finish-time-of-tasks-ii>)                                                                               | Hard    |        | [solution](<_3967. Finish Time of Tasks II.md>)                                        | java        | Jun 03, 2026    |

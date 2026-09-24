@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (43 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (44 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -45,6 +45,7 @@
 | 3299 | [Sum of Consecutive Subsequences](<https://leetcode.com/problems/sum-of-consecutive-subsequences>)                                                     | Hard    |           | [solution](<../_3299. Sum of Consecutive Subsequences.md>)                           | java        | Jun 27, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                                                         | Medium  |           | [solution](<../_3376. Minimum Time to Break Locks I.md>)                             | java        | May 29, 2026    |
 | 3844 | [Longest Almost-Palindromic Substring](<https://leetcode.com/problems/longest-almost-palindromic-substring>)                                           | Medium  |           | [solution](<../_3844. Longest Almost-Palindromic Substring.md>)                      | java        | Jun 11, 2026    |
+| 3869 | [Count Fancy Numbers in a Range](<https://leetcode.com/problems/count-fancy-numbers-in-a-range>)                                                       | Hard    |           | [solution](<../_3869. Count Fancy Numbers in a Range.md>)                            | java        | Sep 24, 2026    |
 | 3939 | [Count Non Adjacent Subsets in a Rooted Tree](<https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree>)                             | Hard    |           | [solution](<../_3939. Count Non Adjacent Subsets in a Rooted Tree.md>)               | java        | Jun 17, 2026    |
 | 3965 | [Finish Time of Tasks I](<https://leetcode.com/problems/finish-time-of-tasks-i>)                                                                       | Medium  |           | [solution](<../_3965. Finish Time of Tasks I.md>)                                    | java        | Jun 02, 2026    |
 | 3967 | [Finish Time of Tasks II](<https://leetcode.com/problems/finish-time-of-tasks-ii>)                                                                     | Hard    |           | [solution](<../_3967. Finish Time of Tasks II.md>)                                   | java        | Jun 03, 2026    |
