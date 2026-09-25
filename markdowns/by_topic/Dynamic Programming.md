@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (44 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (45 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -44,6 +44,7 @@
 | 3276 | [Select Cells in Grid With Maximum Score](<https://leetcode.com/problems/select-cells-in-grid-with-maximum-score>)                                     | Hard    |           | [solution](<../_3276. Select Cells in Grid With Maximum Score.md>)                   | java        | Jul 31, 2026    |
 | 3299 | [Sum of Consecutive Subsequences](<https://leetcode.com/problems/sum-of-consecutive-subsequences>)                                                     | Hard    |           | [solution](<../_3299. Sum of Consecutive Subsequences.md>)                           | java        | Jun 27, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                                                         | Medium  |           | [solution](<../_3376. Minimum Time to Break Locks I.md>)                             | java        | May 29, 2026    |
+| 3811 | [Number of Alternating XOR Partitions](<https://leetcode.com/problems/number-of-alternating-xor-partitions>)                                           | Medium  |           | [solution](<../_3811. Number of Alternating XOR Partitions.md>)                      | java        | Sep 25, 2026    |
 | 3844 | [Longest Almost-Palindromic Substring](<https://leetcode.com/problems/longest-almost-palindromic-substring>)                                           | Medium  |           | [solution](<../_3844. Longest Almost-Palindromic Substring.md>)                      | java        | Jun 11, 2026    |
 | 3869 | [Count Fancy Numbers in a Range](<https://leetcode.com/problems/count-fancy-numbers-in-a-range>)                                                       | Hard    |           | [solution](<../_3869. Count Fancy Numbers in a Range.md>)                            | java        | Sep 24, 2026    |
 | 3939 | [Count Non Adjacent Subsets in a Rooted Tree](<https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree>)                             | Hard    |           | [solution](<../_3939. Count Non Adjacent Subsets in a Rooted Tree.md>)               | java        | Jun 17, 2026    |

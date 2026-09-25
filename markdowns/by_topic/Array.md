@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (139 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (140 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -130,6 +130,7 @@
 | 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                                                               | Medium  |                  | [solution](<../_3799. Word Squares II.md>)                                                | java        | Sep 11, 2026    |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                                     | Medium  |                  | [solution](<../_3804. Number of Centered Subarrays.md>)                                   | java        | Jul 23, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                           | Medium  |                  | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                      | java        | Jul 21, 2026    |
+| 3811 | [Number of Alternating XOR Partitions](<https://leetcode.com/problems/number-of-alternating-xor-partitions>)                                                     | Medium  |                  | [solution](<../_3811. Number of Alternating XOR Partitions.md>)                           | java        | Sep 25, 2026    |
 | 3824 | [Minimum K to Reduce Array Within Limit](<https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit>)                                                 | Medium  |                  | [solution](<../_3824. Minimum K to Reduce Array Within Limit.md>)                         | java        | Jul 23, 2026    |
 | 3838 | [Weighted Word Mapping](<https://leetcode.com/problems/weighted-word-mapping>)                                                                                   | Easy    |                  | [solution](<../_3838. Weighted Word Mapping.md>)                                          | java        | Jul 09, 2026    |
 | 3842 | [Toggle Light Bulbs](<https://leetcode.com/problems/toggle-light-bulbs>)                                                                                         | Easy    |                  | [solution](<../_3842. Toggle Light Bulbs.md>)                                             | java        | Jun 12, 2026    |

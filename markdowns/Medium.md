@@ -1,4 +1,4 @@
-# Medium Questions (160)
+# Medium Questions (161)
 
 *[Back to top](<../README.md>)*
 
@@ -158,6 +158,7 @@
 | 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                                                         | Medium  |                  | [solution](<_3799. Word Squares II.md>)                                             | java        | Sep 11, 2026    |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                               | Medium  |                  | [solution](<_3804. Number of Centered Subarrays.md>)                                | java        | Jul 23, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                     | Medium  |                  | [solution](<_3805. Count Caesar Cipher Pairs.md>)                                   | java        | Jul 21, 2026    |
+| 3811 | [Number of Alternating XOR Partitions](<https://leetcode.com/problems/number-of-alternating-xor-partitions>)                                               | Medium  |                  | [solution](<_3811. Number of Alternating XOR Partitions.md>)                        | java        | Sep 25, 2026    |
 | 3820 | [Pythagorean Distance Nodes in a Tree](<https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree>)                                               | Medium  |                  | [solution](<_3820. Pythagorean Distance Nodes in a Tree.md>)                        | java        | Jul 24, 2026    |
 | 3824 | [Minimum K to Reduce Array Within Limit](<https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit>)                                           | Medium  |                  | [solution](<_3824. Minimum K to Reduce Array Within Limit.md>)                      | java        | Jul 23, 2026    |
 | 3844 | [Longest Almost-Palindromic Substring](<https://leetcode.com/problems/longest-almost-palindromic-substring>)                                               | Medium  |                  | [solution](<_3844. Longest Almost-Palindromic Substring.md>)                        | java        | Jun 11, 2026    |

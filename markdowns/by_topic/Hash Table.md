@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (54 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (55 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -54,6 +54,7 @@
 | 3606 | [Coupon Code Validator](<https://leetcode.com/problems/coupon-code-validator>)                                                                           | Easy    |           | [solution](<../_3606. Coupon Code Validator.md>)                                     | java        | May 29, 2026    |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                             | Medium  |           | [solution](<../_3804. Number of Centered Subarrays.md>)                              | java        | Jul 23, 2026    |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                   | Medium  |           | [solution](<../_3805. Count Caesar Cipher Pairs.md>)                                 | java        | Jul 21, 2026    |
+| 3811 | [Number of Alternating XOR Partitions](<https://leetcode.com/problems/number-of-alternating-xor-partitions>)                                             | Medium  |           | [solution](<../_3811. Number of Alternating XOR Partitions.md>)                      | java        | Sep 25, 2026    |
 | 3842 | [Toggle Light Bulbs](<https://leetcode.com/problems/toggle-light-bulbs>)                                                                                 | Easy    |           | [solution](<../_3842. Toggle Light Bulbs.md>)                                        | java        | Jun 12, 2026    |
 | 3852 | [Smallest Pair With Different Frequencies](<https://leetcode.com/problems/smallest-pair-with-different-frequencies>)                                     | Easy    |           | [solution](<../_3852. Smallest Pair With Different Frequencies.md>)                  | java        | Jul 10, 2026    |
 | 3859 | [Count Subarrays With K Distinct Integers](<https://leetcode.com/problems/count-subarrays-with-k-distinct-integers>)                                     | Hard    |           | [solution](<../_3859. Count Subarrays With K Distinct Integers.md>)                  | java        | Jul 25, 2026    |

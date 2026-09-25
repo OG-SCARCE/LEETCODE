@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (340 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (341 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -307,6 +307,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                                                               | Medium  |                  | [solution](<markdowns/_3799. Word Squares II.md>)                                                | java        |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                                     | Medium  |                  | [solution](<markdowns/_3804. Number of Centered Subarrays.md>)                                   | java        |
 | 3805 | [Count Caesar Cipher Pairs](<https://leetcode.com/problems/count-caesar-cipher-pairs>)                                                                           | Medium  |                  | [solution](<markdowns/_3805. Count Caesar Cipher Pairs.md>)                                      | java        |
+| 3811 | [Number of Alternating XOR Partitions](<https://leetcode.com/problems/number-of-alternating-xor-partitions>)                                                     | Medium  |                  | [solution](<markdowns/_3811. Number of Alternating XOR Partitions.md>)                           | java        |
 | 3812 | [Minimum Edge Toggles on a Tree](<https://leetcode.com/problems/minimum-edge-toggles-on-a-tree>)                                                                 | Hard    |                  | [solution](<markdowns/_3812. Minimum Edge Toggles on a Tree.md>)                                 | java        |
 | 3813 | [Vowel-Consonant Score](<https://leetcode.com/problems/vowel-consonant-score>)                                                                                   | Easy    |                  | [solution](<markdowns/_3813. Vowel-Consonant Score.md>)                                          | java        |
 | 3820 | [Pythagorean Distance Nodes in a Tree](<https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree>)                                                     | Medium  |                  | [solution](<markdowns/_3820. Pythagorean Distance Nodes in a Tree.md>)                           | java        |
