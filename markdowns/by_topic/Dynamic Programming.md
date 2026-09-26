@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (45 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (46 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -35,6 +35,7 @@
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                               | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                         | java        | Aug 01, 2026    |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                     | Medium  |           | [solution](<../_516. Longest Palindromic Subsequence.md>)                            | java        | Sep 16, 2026    |
 |  583 | [Delete Operation for Two Strings](<https://leetcode.com/problems/delete-operation-for-two-strings>)                                                   | Medium  |           | [solution](<../_583. Delete Operation for Two Strings.md>)                           | java        | Sep 23, 2026    |
+|  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                           | Medium  |           | [solution](<../_646. Maximum Length of Pair Chain.md>)                               | java        | Sep 26, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                     | Medium  |           | [solution](<../_740. Delete and Earn.md>)                                            | java        | Sep 08, 2026    |
 | 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                           | Easy    |           | [solution](<../_1025. Divisor Game.md>)                                              | java        | Sep 09, 2026    |
 | 1105 | [Filling Bookcase Shelves](<https://leetcode.com/problems/filling-bookcase-shelves>)                                                                   | Medium  |           | [solution](<../_1105. Filling Bookcase Shelves.md>)                                  | java        | Sep 23, 2026    |

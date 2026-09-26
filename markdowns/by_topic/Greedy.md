@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (15 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (16 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -12,6 +12,7 @@
 |  122 | [Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii>)                                               | Medium  |           | [solution](<../_122. Best Time to Buy and Sell Stock II.md>)                         | java        | Jun 03, 2026    |
 |  134 | [Gas Station](<https://leetcode.com/problems/gas-station>)                                                                                             | Medium  | N150      | [solution](<../_134. Gas Station.md>)                                                | java        | Jun 05, 2026    |
 |  179 | [Largest Number](<https://leetcode.com/problems/largest-number>)                                                                                       | Medium  |           | [solution](<../_179. Largest Number.md>)                                             | java        | Jun 14, 2026    |
+|  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                           | Medium  |           | [solution](<../_646. Maximum Length of Pair Chain.md>)                               | java        | Sep 26, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                     | Easy    |           | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)           | java        | Aug 12, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                       | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                                    | java        | Jul 20, 2026    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                       | Medium  | Daily     | [solution](<../_1833. Maximum Ice Cream Bars.md>)                                    | java        | Jun 19, 2026    |

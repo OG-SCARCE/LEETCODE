@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (140 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (141 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -81,6 +81,7 @@
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                   | Easy    |                  | [solution](<../_350. Intersection of Two Arrays II.md>)                                   | java        | Sep 07, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<../_486. Predict the Winner.md>)                                              | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
+|  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                                     | Medium  |                  | [solution](<../_646. Maximum Length of Pair Chain.md>)                                    | java        | Sep 26, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                               | Medium  |                  | [solution](<../_740. Delete and Earn.md>)                                                 | java        | Sep 08, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |                  | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Sep 09, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                                   | Easy    |                  | [solution](<../_812. Largest Triangle Area.md>)                                           | java        | Aug 24, 2026    |

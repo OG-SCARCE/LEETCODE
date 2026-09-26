@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (35 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (36 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 31, 2026    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                   | Easy    |           | [solution](<../_350. Intersection of Two Arrays II.md>)                                   | java        | Sep 07, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily     | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
+|  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                                     | Medium  |           | [solution](<../_646. Maximum Length of Pair Chain.md>)                                    | java        | Sep 26, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Sep 09, 2026    |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays>)                                     | Easy    |           | [solution](<../_1460. Make Two Arrays Equal by Reversing Subarrays.md>)                   | java        | Jun 30, 2026    |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                                 | Medium  | Daily     | [solution](<../_1833. Maximum Ice Cream Bars.md>)                                         | java        | Jun 19, 2026    |

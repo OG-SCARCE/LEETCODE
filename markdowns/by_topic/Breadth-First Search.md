@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (18 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (19 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                           | Medium  | B75, N150 | [solution](<../_200. Number of Islands.md>)                                       | java        | Jun 15, 2026    |
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                         | Easy    | B75, N150 | [solution](<../_226. Invert Binary Tree.md>)                                      | java        | Jun 17, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                         | Medium  |           | [solution](<../_909. Snakes and Ladders.md>)                                      | java        | Aug 03, 2026    |
+| 1129 | [Shortest Path with Alternating Colors](<https://leetcode.com/problems/shortest-path-with-alternating-colors>)                                   | Medium  |           | [solution](<../_1129. Shortest Path with Alternating Colors.md>)                  | java        | Sep 26, 2026    |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](<https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero>) | Medium  |           | [solution](<../_1466. Reorder Routes to Make All Paths Lead to the City Zero.md>) | java        | May 24, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                                                   | Medium  |           | [solution](<../_3376. Minimum Time to Break Locks I.md>)                          | java        | May 29, 2026    |
 | 3820 | [Pythagorean Distance Nodes in a Tree](<https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree>)                                     | Medium  |           | [solution](<../_3820. Pythagorean Distance Nodes in a Tree.md>)                   | java        | Jul 24, 2026    |
