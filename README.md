@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (345 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (347 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -386,6 +386,8 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4416 | Question 4416                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4416. Question 4416.md>)                                                  | java        |
 | 4417 | Question 4417                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4417. Question 4417.md>)                                                  | java        |
 | 4418 | Question 4418                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4418. Question 4418.md>)                                                  | java        |
+| 4420 | Question 4420                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4420. Question 4420.md>)                                                  | java        |
 | 4421 | Question 4421                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4421. Question 4421.md>)                                                  | java        |
+| 4429 | Question 4429                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4429. Question 4429.md>)                                                  | java        |
 
 <p align="right"><i>This README was generated using <a href="https://github.com/Zanger67/WikiLeet">WikiLeet</a></i></p>
