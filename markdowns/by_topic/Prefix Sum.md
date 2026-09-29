@@ -1,4 +1,4 @@
-# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (10 completed)
+# [Prefix Sum](<https://leetcode.com/tag/Prefix-Sum/>) (11 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:------------------------------------------------------------------------------------------|:------------|:----------------|
 |  303 | [Range Sum Query - Immutable](<https://leetcode.com/problems/range-sum-query-immutable>)                                                                         | Easy    |        | [solution](<../_303. Range Sum Query - Immutable.md>)                                     | java        | Jun 22, 2026    |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](<https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array>)                                   | Medium  |        | [solution](<../_1685. Sum of Absolute Differences in a Sorted Array.md>)                  | java        | Aug 17, 2026    |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](<https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions>)     | Medium  |        | [solution](<../_1737. Change Minimum Characters to Satisfy One of Three Conditions.md>)   | java        | Sep 29, 2026    |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](<https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid>)                                             | Medium  |        | [solution](<../_1878. Get Biggest Three Rhombus Sums in a Grid.md>)                       | java        | May 23, 2026    |
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](<https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps>)                                 | Hard    |        | [solution](<../_2106. Maximum Fruits Harvested After at Most K Steps.md>)                 | java        | Jul 18, 2026    |
 | 2245 | [Maximum Trailing Zeros in a Cornered Path](<https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path>)                                           | Medium  |        | [solution](<../_2245. Maximum Trailing Zeros in a Cornered Path.md>)                      | java        | May 31, 2026    |

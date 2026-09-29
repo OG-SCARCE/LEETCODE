@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (347 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (348 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -256,6 +256,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](<https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted>)                     | Medium  |                  | [solution](<markdowns/_1574. Shortest Subarray to be Removed to Make Array Sorted.md>)           | java        |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>)                               | Hard    |                  | [solution](<markdowns/_1617. Count Subtrees With Max Distance Between Cities.md>)                | java        |
 | 1685 | [Sum of Absolute Differences in a Sorted Array](<https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array>)                                   | Medium  |                  | [solution](<markdowns/_1685. Sum of Absolute Differences in a Sorted Array.md>)                  | java        |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](<https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions>)     | Medium  |                  | [solution](<markdowns/_1737. Change Minimum Characters to Satisfy One of Three Conditions.md>)   | java        |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](<https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones>)                 | Easy    |                  | [solution](<markdowns/_1784. Check if Binary String Has at Most One Segment of Ones.md>)         | java        |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                             | Hard    |                  | [solution](<markdowns/_1793. Maximum Score of a Good Subarray.md>)                               | java        |
 | 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                                 | Medium  | Daily            | [solution](<markdowns/_1833. Maximum Ice Cream Bars.md>)                                         | java        |
