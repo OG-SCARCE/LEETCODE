@@ -1,20 +1,26 @@
 class Solution {
-    public void pop(int n,int openP,int closeP,String s,List<String> res){
-        if(openP+closeP==n*2){
-            res.add(s);
+
+    private void function(int n, int a, int b, String s, List<String> ans) {
+
+        if (a == n && b == n) {
+            ans.add(s);
             return;
         }
-        if(openP<n){
-            pop(n,openP+1,closeP,s+"(",res);
+
+        if (a < n) {
+            function(n, a + 1, b, s + "(", ans);
         }
-        if(closeP<openP){
-            pop(n,openP,closeP+1,s+")",res);
+
+        if (b < a) {
+            function(n, a, b + 1, s + ")", ans);
         }
     }
+
     public List<String> generateParenthesis(int n) {
-        List<String> res=new ArrayList<>();
-        pop(n,0,0,"",res);
-        return res;
+        List<String> ans = new ArrayList<>();
+
+        function(n, 0, 0, "", ans);
+
+        return ans;
     }
 }
-
