@@ -1,26 +1,32 @@
+import java.util.*;
+
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        for (char ch : s.toCharArray()) {
-            if (ch == '(' || ch == '[' || ch == '{') {
-                stack.push(ch);
+        Map<Character, Character> map = new HashMap<>();
+        // Use standard ArrayList as a list-backed stack
+        List<Character> list = new ArrayList<>(); 
+
+        map.put('(', ')');
+        map.put('{', '}');
+        map.put('[', ']');
+
+        int counter = 0;
+        while(counter != s.length()){
+            if(list.isEmpty()){
+                list.add(s.charAt(counter));
+                counter++;
+            } 
+            else if(map.get(list.get(list.size() - 1)) != null && 
+                    map.get(list.get(list.size() - 1)) == s.charAt(counter)){
+                list.remove(list.size() - 1);
+                counter++;
             } else {
-                if (stack.isEmpty()) {
-                    return false;
-                }
-                char top = stack.pop();
-                if (ch == ')' && top != '(') {
-                    return false;
-                }
-                if (ch == ']' && top != '[') {
-                    return false;
-                }
-                if (ch == '}' && top != '{') {
-                    return false;
-                }
+                list.add(s.charAt(counter));
+                counter++;
             }
         }
-        return stack.isEmpty();
+
+        return list.isEmpty();
     }
 }
 
