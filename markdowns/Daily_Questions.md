@@ -4,19 +4,20 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-### September 2026
-| Su   | Mo   |   Tu |   We | Th                                                        |   Fr |   Sa |
-|-----:|-----:|-----:|-----:|----------------------------------------------------------:|-----:|-----:|
-|      |      |    1 |    2 | 3                                                         |    4 |    5 |
-| 6    | 7    |    8 |    9 | [10](<_2265. Count Nodes Equal to Average of Subtree.md>) |   11 |   12 |
-| 13   | 14   |   15 |   16 | 17                                                        |   18 |   19 |
-| 20   | 21   |   22 |   23 | 24                                                        |   25 |   26 |
-| 27   | 28   |   29 |   30 |                                                           |      |      |
+### October 2026
+| Su   | Mo   | Tu   | We   | Th                               |   Fr |   Sa |
+|-----:|-----:|-----:|-----:|---------------------------------:|-----:|-----:|
+|      |      |      |      | [1](<_20. Valid Parentheses.md>) |    2 |    3 |
+| 4    | 5    | 6    | 7    | 8                                |    9 |   10 |
+| 11   | 12   | 13   | 14   | 15                               |   16 |   17 |
+| 18   | 19   | 20   | 21   | 22                               |   23 |   24 |
+| 25   | 26   | 27   | 28   | 29                               |   30 |   31 |
 
 
 
 |    # | Title                                                                                                              | Level   | Cats             | Solution                                                        | Languages   | Date Complete   |
 |-----:|:-------------------------------------------------------------------------------------------------------------------|:--------|:-----------------|:----------------------------------------------------------------|:------------|:----------------|
+|   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                             | Easy    | B75, Daily, N150 | [solution](<_20. Valid Parentheses.md>)                         | java        | Oct 01, 2026    |
 | 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>) | Medium  | Daily            | [solution](<_2265. Count Nodes Equal to Average of Subtree.md>) | java        | Sep 10, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                   | Medium  | Daily            | [solution](<_1386. Cinema Seat Allocation.md>)                  | java        | Aug 19, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                           | Medium  | Daily            | [solution](<_486. Predict the Winner.md>)                       | java        | Aug 01, 2026    |
@@ -76,4 +77,14 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 13   | 14   |   15 |   16 | 17                                                        |   18 |   19 |
 | 20   | 21   |   22 |   23 | 24                                                        |   25 |   26 |
 | 27   | 28   |   29 |   30 |                                                           |      |      |
+
+
+### October 2026
+| Su   | Mo   | Tu   | We   | Th                               |   Fr |   Sa |
+|-----:|-----:|-----:|-----:|---------------------------------:|-----:|-----:|
+|      |      |      |      | [1](<_20. Valid Parentheses.md>) |    2 |    3 |
+| 4    | 5    | 6    | 7    | 8                                |    9 |   10 |
+| 11   | 12   | 13   | 14   | 15                               |   16 |   17 |
+| 18   | 19   | 20   | 21   | 22                               |   23 |   24 |
+| 25   | 26   | 27   | 28   | 29                               |   30 |   31 |
 
