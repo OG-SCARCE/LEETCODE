@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (63 completed)
+# [String](<https://leetcode.com/tag/String/>) (64 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -44,6 +44,7 @@
 |  290 | [Word Pattern](<https://leetcode.com/problems/word-pattern>)                                                                                                 | Easy    |                  | [solution](<../_290. Word Pattern.md>)                                                  | java        | Jun 21, 2026    |
 |  344 | [Reverse String](<https://leetcode.com/problems/reverse-string>)                                                                                             | Easy    |                  | [solution](<../_344. Reverse String.md>)                                                | java        | Aug 28, 2026    |
 |  345 | [Reverse Vowels of a String](<https://leetcode.com/problems/reverse-vowels-of-a-string>)                                                                     | Easy    |                  | [solution](<../_345. Reverse Vowels of a String.md>)                                    | java        | Sep 01, 2026    |
+|  383 | [Ransom Note](<https://leetcode.com/problems/ransom-note>)                                                                                                   | Easy    |                  | [solution](<../_383. Ransom Note.md>)                                                   | java        | Oct 03, 2026    |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                           | Medium  |                  | [solution](<../_516. Longest Palindromic Subsequence.md>)                               | java        | Sep 16, 2026    |
 |  583 | [Delete Operation for Two Strings](<https://leetcode.com/problems/delete-operation-for-two-strings>)                                                         | Medium  |                  | [solution](<../_583. Delete Operation for Two Strings.md>)                              | java        | Sep 23, 2026    |
 | 1234 | [Replace the Substring for Balanced String](<https://leetcode.com/problems/replace-the-substring-for-balanced-string>)                                       | Medium  |                  | [solution](<../_1234. Replace the Substring for Balanced String.md>)                    | java        | Jul 05, 2026    |

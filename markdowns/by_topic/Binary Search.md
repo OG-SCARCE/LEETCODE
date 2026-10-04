@@ -1,4 +1,4 @@
-# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (27 completed)
+# [Binary Search](<https://leetcode.com/tag/Binary-Search/>) (28 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,3 +33,4 @@
 | 3608 | [Minimum Time for K Connected Components](<https://leetcode.com/problems/minimum-time-for-k-connected-components>)                                               | Medium  |                  | [solution](<../_3608. Minimum Time for K Connected Components.md>)                        | java        | Jul 14, 2026    |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                             | Medium  |                  | [solution](<../_3635. Earliest Finish Time for Land and Water Rides II.md>)               | java        | Aug 07, 2026    |
 | 3824 | [Minimum K to Reduce Array Within Limit](<https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit>)                                                 | Medium  |                  | [solution](<../_3824. Minimum K to Reduce Array Within Limit.md>)                         | java        | Jul 23, 2026    |
+| 4057 | [Number of Intersecting Interval Pairs II](<https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii>)                                             | Medium  |                  | [solution](<../_4057. Number of Intersecting Interval Pairs II.md>)                       | java        | Jun 04, 2026    |

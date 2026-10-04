@@ -1,4 +1,4 @@
-# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (11 completed)
+# [Sliding Window](<https://leetcode.com/tag/Sliding-Window/>) (12 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -17,3 +17,4 @@
 | 3329 | [Count Substrings With K-Frequency Characters II](<https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii>)                               | Hard    |           | [solution](<../_3329. Count Substrings With K-Frequency Characters II.md>)                | java        | May 21, 2026    |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](<https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii>) | Hard    |           | [solution](<../_3347. Maximum Frequency of an Element After Performing Operations II.md>) | java        | Aug 20, 2026    |
 | 3859 | [Count Subarrays With K Distinct Integers](<https://leetcode.com/problems/count-subarrays-with-k-distinct-integers>)                                             | Hard    |           | [solution](<../_3859. Count Subarrays With K Distinct Integers.md>)                       | java        | Jul 25, 2026    |
+| 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                                                         | Hard    |           | [solution](<../_4033. Valid K-Unique Subarrays I.md>)                                     | java        | Aug 15, 2026    |
