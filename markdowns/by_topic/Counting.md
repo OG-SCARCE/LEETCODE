@@ -1,4 +1,4 @@
-# [Counting](<https://leetcode.com/tag/Counting/>) (12 completed)
+# [Counting](<https://leetcode.com/tag/Counting/>) (13 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -8,6 +8,7 @@
 |-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:----------------------------------------------------------------------------------------|:------------|:----------------|
 |  169 | [Majority Element](<https://leetcode.com/problems/majority-element>)                                                                                         | Easy    |        | [solution](<../_169. Majority Element.md>)                                              | java        | Jun 08, 2026    |
 |  383 | [Ransom Note](<https://leetcode.com/problems/ransom-note>)                                                                                                   | Easy    |        | [solution](<../_383. Ransom Note.md>)                                                   | java        | Oct 03, 2026    |
+|  387 | [First Unique Character in a String](<https://leetcode.com/problems/first-unique-character-in-a-string>)                                                     | Easy    |        | [solution](<../_387. First Unique Character in a String.md>)                            | java        | Oct 05, 2026    |
 | 1121 | [Divide Array Into Increasing Sequences](<https://leetcode.com/problems/divide-array-into-increasing-sequences>)                                             | Hard    |        | [solution](<../_1121. Divide Array Into Increasing Sequences.md>)                       | java        | Sep 12, 2026    |
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](<https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions>) | Medium  |        | [solution](<../_1737. Change Minimum Characters to Satisfy One of Three Conditions.md>) | java        | Sep 29, 2026    |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](<https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles>)                               | Medium  |        | [solution](<../_2001. Number of Pairs of Interchangeable Rectangles.md>)                | java        | May 25, 2026    |
