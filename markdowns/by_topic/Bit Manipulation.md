@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (24 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (25 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  268 | [Missing Number](<https://leetcode.com/problems/missing-number>)                                                                   | Easy    | B75, N150 | [solution](<../_268. Missing Number.md>)                                   | java        | Jun 19, 2026    |
 |  338 | [Counting Bits](<https://leetcode.com/problems/counting-bits>)                                                                     | Easy    | B75, N150 | [solution](<../_338. Counting Bits.md>)                                    | java        | Jun 22, 2026    |
 |  342 | [Power of Four](<https://leetcode.com/problems/power-of-four>)                                                                     | Easy    |           | [solution](<../_342. Power of Four.md>)                                    | java        | Jun 22, 2026    |
+|  389 | [Find the Difference](<https://leetcode.com/problems/find-the-difference>)                                                         | Easy    |           | [solution](<../_389. Find the Difference.md>)                              | java        | Oct 06, 2026    |
 | 1256 | [Encode Number](<https://leetcode.com/problems/encode-number>)                                                                     | Medium  |           | [solution](<../_1256. Encode Number.md>)                                   | java        | Jul 12, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                   | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                          | java        | Jul 20, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>) | Hard    |           | [solution](<../_1617. Count Subtrees With Max Distance Between Cities.md>) | java        | Aug 10, 2026    |
