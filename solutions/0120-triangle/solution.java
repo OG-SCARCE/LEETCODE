@@ -1,12 +1,25 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> tri) {
-        for (int i = tri.size() - 2; i >= 0; i--)
-            for (int j = 0; j < tri.get(i).size(); j++)
-                tri.get(i).set(j, tri.get(i).get(j) + Math.min(
-                    tri.get(i + 1).get(j),
-                    tri.get(i + 1).get(j + 1)
-                ));
-        return tri.get(0).get(0);
+        int n = tri.size();
+        Integer[][] dp = new Integer[n][n];
+
+        return solve(0, 0, tri, dp);
+    }
+
+    int solve(int i, int j, List<List<Integer>> tri,Integer[][] dp) {
+        if (i == tri.size() - 1) {
+            return tri.get(i).get(j);
+        }
+
+        if (dp[i][j] != null) {
+            return dp[i][j];
+        }
+
+        int down = solve(i + 1, j, tri, dp);
+        int diagonal = solve(i + 1, j + 1, tri, dp);
+
+        dp[i][j] = tri.get(i).get(j)+ Math.min(down, diagonal);
+
+        return dp[i][j];
     }
 }
-
