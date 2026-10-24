@@ -1,4 +1,4 @@
-# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (19 completed)
+# [Backtracking](<https://leetcode.com/tag/Backtracking/>) (21 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -22,6 +22,8 @@
 |  113 | [Path Sum II](<https://leetcode.com/problems/path-sum-ii>)                                                               | Medium  |             | [solution](<../_113. Path Sum II.md>)                                 | java        | Jun 02, 2026    |
 |  131 | [Palindrome Partitioning](<https://leetcode.com/problems/palindrome-partitioning>)                                       | Medium  | N150        | [solution](<../_131. Palindrome Partitioning.md>)                     | java        | Jun 04, 2026    |
 |  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                   | Easy    |             | [solution](<../_257. Binary Tree Paths.md>)                           | java        | Jun 18, 2026    |
+|  401 | [Binary Watch](<https://leetcode.com/problems/binary-watch>)                                                             | Easy    |             | [solution](<../_401. Binary Watch.md>)                                | java        | Oct 17, 2026    |
+|  967 | [Numbers With Same Consecutive Differences](<https://leetcode.com/problems/numbers-with-same-consecutive-differences>)   | Medium  |             | [solution](<../_967. Numbers With Same Consecutive Differences.md>)   | java        | Oct 13, 2026    |
 | 1240 | [Tiling a Rectangle with the Fewest Squares](<https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares>) | Hard    |             | [solution](<../_1240. Tiling a Rectangle with the Fewest Squares.md>) | java        | Aug 09, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                           | Medium  |             | [solution](<../_3376. Minimum Time to Break Locks I.md>)              | java        | May 29, 2026    |
 | 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                       | Medium  |             | [solution](<../_3799. Word Squares II.md>)                            | java        | Sep 11, 2026    |

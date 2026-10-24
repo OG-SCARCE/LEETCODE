@@ -1,4 +1,4 @@
-# [Matrix](<https://leetcode.com/tag/Matrix/>) (19 completed)
+# [Matrix](<https://leetcode.com/tag/Matrix/>) (20 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -16,6 +16,7 @@
 |   74 | [Search a 2D Matrix](<https://leetcode.com/problems/search-a-2d-matrix>)                                               | Medium  | N150      | [solution](<../_74. Search a 2D Matrix.md>)                          | java        | May 23, 2026    |
 |   79 | [Word Search](<https://leetcode.com/problems/word-search>)                                                             | Medium  | B75, N150 | [solution](<../_79. Word Search.md>)                                 | java        | May 23, 2026    |
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                 | Medium  | B75, N150 | [solution](<../_200. Number of Islands.md>)                          | java        | Jun 15, 2026    |
+|  741 | [Cherry Pickup](<https://leetcode.com/problems/cherry-pickup>)                                                         | Hard    |           | [solution](<../_741. Cherry Pickup.md>)                              | java        | Oct 13, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                               | Medium  |           | [solution](<../_909. Snakes and Ladders.md>)                         | java        | Aug 03, 2026    |
 | 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                     | Medium  |           | [solution](<../_1222. Queens That Can Attack the King.md>)           | java        | Jul 06, 2026    |
 | 1428 | [Leftmost Column with at Least a One](<https://leetcode.com/problems/leftmost-column-with-at-least-a-one>)             | Medium  |           | [solution](<../_1428. Leftmost Column with at Least a One.md>)       | java        | May 17, 2026    |

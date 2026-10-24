@@ -1,4 +1,4 @@
-# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (7 completed)
+# [Heap (Priority Queue)](<https://leetcode.com/tag/Heap-(Priority-Queue)/>) (8 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -6,6 +6,7 @@
 
 |    # | Title                                                                                                                                  | Level   | Cats   | Solution                                                                     | Languages   | Date Complete   |
 |-----:|:---------------------------------------------------------------------------------------------------------------------------------------|:--------|:-------|:-----------------------------------------------------------------------------|:------------|:----------------|
+|  239 | [Sliding Window Maximum](<https://leetcode.com/problems/sliding-window-maximum>)                                                       | Hard    | N150   | [solution](<../_239. Sliding Window Maximum.md>)                             | java        | Oct 07, 2026    |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](<https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid>)                   | Medium  |        | [solution](<../_1878. Get Biggest Three Rhombus Sums in a Grid.md>)          | java        | May 23, 2026    |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](<https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum>) | Easy    |        | [solution](<../_2099. Find Subsequence of Length K With the Largest Sum.md>) | java        | Jun 30, 2026    |
 | 2349 | [Design a Number Container System](<https://leetcode.com/problems/design-a-number-container-system>)                                   | Medium  |        | [solution](<../_2349. Design a Number Container System.md>)                  | java        | Sep 30, 2026    |

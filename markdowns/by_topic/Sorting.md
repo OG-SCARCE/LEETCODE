@@ -1,4 +1,4 @@
-# [Sorting](<https://leetcode.com/tag/Sorting/>) (38 completed)
+# [Sorting](<https://leetcode.com/tag/Sorting/>) (39 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -25,6 +25,7 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                         | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                      | java        | Aug 31, 2026    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                                   | Easy    |           | [solution](<../_350. Intersection of Two Arrays II.md>)                                   | java        | Sep 07, 2026    |
 |  389 | [Find the Difference](<https://leetcode.com/problems/find-the-difference>)                                                                                       | Easy    |           | [solution](<../_389. Find the Difference.md>)                                             | java        | Oct 06, 2026    |
+|  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                                                     | Easy    |           | [solution](<../_414. Third Maximum Number.md>)                                            | java        | Oct 23, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily     | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
 |  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                                     | Medium  |           | [solution](<../_646. Maximum Length of Pair Chain.md>)                                    | java        | Sep 26, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                                               | Easy    |           | [solution](<../_747. Largest Number At Least Twice of Others.md>)                         | java        | Sep 09, 2026    |
