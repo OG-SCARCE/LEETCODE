@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (53 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (54 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -39,6 +39,7 @@
 |  367 | [Valid Perfect Square](<https://leetcode.com/problems/valid-perfect-square>)                                                                                 | Easy    |           | [solution](<../_367. Valid Perfect Square.md>)                                          | java        | Sep 17, 2026    |
 |  405 | [Convert a Number to Hexadecimal](<https://leetcode.com/problems/convert-a-number-to-hexadecimal>)                                                           | Easy    |           | [solution](<../_405. Convert a Number to Hexadecimal.md>)                               | java        | Oct 19, 2026    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                                       | Easy    |           | [solution](<../_412. Fizz Buzz.md>)                                                     | java        | Oct 21, 2026    |
+|  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                                                   | Easy    |           | [solution](<../_415. Add Strings.md>)                                                   | java        | Oct 26, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                     | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                            | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                         | Easy    | Daily     | [solution](<../_628. Maximum Product of Three Numbers.md>)                              | java        | Jul 26, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                               | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)                                         | java        | Aug 24, 2026    |

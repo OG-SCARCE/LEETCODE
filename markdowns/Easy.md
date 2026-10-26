@@ -1,4 +1,4 @@
-# Easy Questions (111)
+# Easy Questions (112)
 
 *[Back to top](<../README.md>)*
 
@@ -86,6 +86,7 @@
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                         | Easy    |                  | [solution](<_409. Longest Palindrome.md>)                                      | java        | Oct 20, 2026    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                                                           | Easy    |                  | [solution](<_412. Fizz Buzz.md>)                                               | java        | Oct 21, 2026    |
 |  414 | [Third Maximum Number](<https://leetcode.com/problems/third-maximum-number>)                                                                     | Easy    |                  | [solution](<_414. Third Maximum Number.md>)                                    | java        | Oct 23, 2026    |
+|  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                                       | Easy    |                  | [solution](<_415. Add Strings.md>)                                             | java        | Oct 26, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                             | Easy    | Daily            | [solution](<_628. Maximum Product of Three Numbers.md>)                        | java        | Jul 26, 2026    |
 |  747 | [Largest Number At Least Twice of Others](<https://leetcode.com/problems/largest-number-at-least-twice-of-others>)                               | Easy    |                  | [solution](<_747. Largest Number At Least Twice of Others.md>)                 | java        | Sep 09, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                   | Easy    |                  | [solution](<_812. Largest Triangle Area.md>)                                   | java        | Aug 24, 2026    |
