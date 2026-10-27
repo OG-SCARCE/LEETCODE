@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (382 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (383 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -379,6 +379,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 4332 | Question 4332                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4332. Question 4332.md>)                                                  | java        |
 | 4338 | Question 4338                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4338. Question 4338.md>)                                                  | java        |
 | 4341 | Question 4341                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4341. Question 4341.md>)                                                  | java        |
+| 4342 | Question 4342                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4342. Question 4342.md>)                                                  | java        |
 | 4346 | Question 4346                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4346. Question 4346.md>)                                                  | java        |
 | 4350 | Question 4350                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4350. Question 4350.md>)                                                  | java        |
 | 4352 | Question 4352                                                                                                                                                    | Unknown |                  | [solution](<markdowns/_4352. Question 4352.md>)                                                  | java        |
