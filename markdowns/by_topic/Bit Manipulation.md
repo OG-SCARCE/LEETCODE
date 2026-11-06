@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (27 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (29 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -24,6 +24,8 @@
 |  389 | [Find the Difference](<https://leetcode.com/problems/find-the-difference>)                                                         | Easy    |           | [solution](<../_389. Find the Difference.md>)                              | java        | Oct 06, 2026    |
 |  401 | [Binary Watch](<https://leetcode.com/problems/binary-watch>)                                                                       | Easy    |           | [solution](<../_401. Binary Watch.md>)                                     | java        | Oct 17, 2026    |
 |  405 | [Convert a Number to Hexadecimal](<https://leetcode.com/problems/convert-a-number-to-hexadecimal>)                                 | Easy    |           | [solution](<../_405. Convert a Number to Hexadecimal.md>)                  | java        | Oct 19, 2026    |
+|  461 | [Hamming Distance](<https://leetcode.com/problems/hamming-distance>)                                                               | Easy    |           | [solution](<../_461. Hamming Distance.md>)                                 | java        | Nov 04, 2026    |
+|  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                             | Easy    |           | [solution](<../_476. Number Complement.md>)                                | java        | Nov 06, 2026    |
 | 1256 | [Encode Number](<https://leetcode.com/problems/encode-number>)                                                                     | Medium  |           | [solution](<../_1256. Encode Number.md>)                                   | java        | Jul 12, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                   | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                          | java        | Jul 20, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>) | Hard    |           | [solution](<../_1617. Count Subtrees With Max Distance Between Cities.md>) | java        | Aug 10, 2026    |

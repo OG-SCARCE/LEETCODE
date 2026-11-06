@@ -1,4 +1,4 @@
-# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (40 completed)
+# [Two Pointers](<https://leetcode.com/tag/Two-Pointers/>) (41 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -40,6 +40,7 @@
 |  349 | [Intersection of Two Arrays](<https://leetcode.com/problems/intersection-of-two-arrays>)                                                                   | Easy    |           | [solution](<../_349. Intersection of Two Arrays.md>)                                   | java        | Aug 31, 2026    |
 |  350 | [Intersection of Two Arrays II](<https://leetcode.com/problems/intersection-of-two-arrays-ii>)                                                             | Easy    |           | [solution](<../_350. Intersection of Two Arrays II.md>)                                | java        | Sep 07, 2026    |
 |  392 | [Is Subsequence](<https://leetcode.com/problems/is-subsequence>)                                                                                           | Easy    |           | [solution](<../_392. Is Subsequence.md>)                                               | java        | Oct 10, 2026    |
+|  455 | [Assign Cookies](<https://leetcode.com/problems/assign-cookies>)                                                                                           | Easy    |           | [solution](<../_455. Assign Cookies.md>)                                               | java        | Oct 31, 2026    |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](<https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted>)               | Medium  |           | [solution](<../_1574. Shortest Subarray to be Removed to Make Array Sorted.md>)        | java        | Jul 27, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                                       | Hard    |           | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                            | java        | May 13, 2026    |
 | 1961 | [Check If String Is a Prefix of Array](<https://leetcode.com/problems/check-if-string-is-a-prefix-of-array>)                                               | Easy    |           | [solution](<../_1961. Check If String Is a Prefix of Array.md>)                        | java        | Jun 21, 2026    |

@@ -1,4 +1,4 @@
-# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (21 completed)
+# [Breadth-First Search](<https://leetcode.com/tag/Breadth-First-Search/>) (22 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -21,6 +21,7 @@
 |  200 | [Number of Islands](<https://leetcode.com/problems/number-of-islands>)                                                                           | Medium  | B75, N150 | [solution](<../_200. Number of Islands.md>)                                       | java        | Jun 15, 2026    |
 |  226 | [Invert Binary Tree](<https://leetcode.com/problems/invert-binary-tree>)                                                                         | Easy    | B75, N150 | [solution](<../_226. Invert Binary Tree.md>)                                      | java        | Jun 17, 2026    |
 |  404 | [Sum of Left Leaves](<https://leetcode.com/problems/sum-of-left-leaves>)                                                                         | Easy    |           | [solution](<../_404. Sum of Left Leaves.md>)                                      | java        | Oct 14, 2026    |
+|  463 | [Island Perimeter](<https://leetcode.com/problems/island-perimeter>)                                                                             | Easy    |           | [solution](<../_463. Island Perimeter.md>)                                        | java        | Nov 05, 2026    |
 |  909 | [Snakes and Ladders](<https://leetcode.com/problems/snakes-and-ladders>)                                                                         | Medium  |           | [solution](<../_909. Snakes and Ladders.md>)                                      | java        | Aug 03, 2026    |
 |  967 | [Numbers With Same Consecutive Differences](<https://leetcode.com/problems/numbers-with-same-consecutive-differences>)                           | Medium  |           | [solution](<../_967. Numbers With Same Consecutive Differences.md>)               | java        | Oct 13, 2026    |
 | 1129 | [Shortest Path with Alternating Colors](<https://leetcode.com/problems/shortest-path-with-alternating-colors>)                                   | Medium  |           | [solution](<../_1129. Shortest Path with Alternating Colors.md>)                  | java        | Sep 26, 2026    |

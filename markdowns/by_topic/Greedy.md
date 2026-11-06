@@ -1,4 +1,4 @@
-# [Greedy](<https://leetcode.com/tag/Greedy/>) (18 completed)
+# [Greedy](<https://leetcode.com/tag/Greedy/>) (19 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  134 | [Gas Station](<https://leetcode.com/problems/gas-station>)                                                                                             | Medium  | N150      | [solution](<../_134. Gas Station.md>)                                                | java        | Jun 05, 2026    |
 |  179 | [Largest Number](<https://leetcode.com/problems/largest-number>)                                                                                       | Medium  |           | [solution](<../_179. Largest Number.md>)                                             | java        | Jun 14, 2026    |
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                               | Easy    |           | [solution](<../_409. Longest Palindrome.md>)                                         | java        | Oct 20, 2026    |
+|  455 | [Assign Cookies](<https://leetcode.com/problems/assign-cookies>)                                                                                       | Easy    |           | [solution](<../_455. Assign Cookies.md>)                                             | java        | Oct 31, 2026    |
 |  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                           | Medium  |           | [solution](<../_646. Maximum Length of Pair Chain.md>)                               | java        | Sep 26, 2026    |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](<https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum>)                     | Easy    |           | [solution](<../_1013. Partition Array Into Three Parts With Equal Sum.md>)           | java        | Aug 12, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                       | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                                    | java        | Jul 20, 2026    |
