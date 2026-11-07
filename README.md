@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (394 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (395 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -241,6 +241,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  461 | [Hamming Distance](<https://leetcode.com/problems/hamming-distance>)                                                                                             | Easy    |                  | [solution](<markdowns/_461. Hamming Distance.md>)                                                | java        |
 |  463 | [Island Perimeter](<https://leetcode.com/problems/island-perimeter>)                                                                                             | Easy    |                  | [solution](<markdowns/_463. Island Perimeter.md>)                                                | java        |
 |  476 | [Number Complement](<https://leetcode.com/problems/number-complement>)                                                                                           | Easy    |                  | [solution](<markdowns/_476. Number Complement.md>)                                               | java        |
+|  482 | [License Key Formatting](<https://leetcode.com/problems/license-key-formatting>)                                                                                 | Easy    |                  | [solution](<markdowns/_482. License Key Formatting.md>)                                          | java        |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<markdowns/_486. Predict the Winner.md>)                                              | java        |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                               | Medium  |                  | [solution](<markdowns/_516. Longest Palindromic Subsequence.md>)                                 | java        |
 |  583 | [Delete Operation for Two Strings](<https://leetcode.com/problems/delete-operation-for-two-strings>)                                                             | Medium  |                  | [solution](<markdowns/_583. Delete Operation for Two Strings.md>)                                | java        |
