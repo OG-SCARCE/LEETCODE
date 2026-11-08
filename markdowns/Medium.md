@@ -1,4 +1,4 @@
-# Medium Questions (170)
+# Medium Questions (171)
 
 *[Back to top](<../README.md>)*
 
@@ -176,3 +176,4 @@
 | 4057 | [Number of Intersecting Interval Pairs II](<https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii>)                                         | Medium  |                  | [solution](<_4057. Number of Intersecting Interval Pairs II.md>)                     | java        | Jun 04, 2026    |
 | 4075 | [Longest Resilient Subarray I](<https://leetcode.com/problems/longest-resilient-subarray-i>)                                                                 | Medium  |                  | [solution](<_4075. Longest Resilient Subarray I.md>)                                 | java        | Jun 26, 2026    |
 | 4080 | [Design Bus Seat Booking System](<https://leetcode.com/problems/design-bus-seat-booking-system>)                                                             | Medium  |                  | [solution](<_4080. Design Bus Seat Booking System.md>)                               | java        | Aug 25, 2026    |
+| 4107 | [Count Valid Suffix Sorts I](<https://leetcode.com/problems/count-valid-suffix-sorts-i>)                                                                     | Medium  |                  | [solution](<_4107. Count Valid Suffix Sorts I.md>)                                   | java        | Aug 04, 2026    |
