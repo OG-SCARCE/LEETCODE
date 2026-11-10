@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (398 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (399 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -244,6 +244,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 |  482 | [License Key Formatting](<https://leetcode.com/problems/license-key-formatting>)                                                                                 | Easy    |                  | [solution](<markdowns/_482. License Key Formatting.md>)                                          | java        |
 |  485 | [Max Consecutive Ones](<https://leetcode.com/problems/max-consecutive-ones>)                                                                                     | Easy    |                  | [solution](<markdowns/_485. Max Consecutive Ones.md>)                                            | java        |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<markdowns/_486. Predict the Winner.md>)                                              | java        |
+|  492 | [Construct the Rectangle](<https://leetcode.com/problems/construct-the-rectangle>)                                                                               | Easy    |                  | [solution](<markdowns/_492. Construct the Rectangle.md>)                                         | java        |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                               | Medium  |                  | [solution](<markdowns/_516. Longest Palindromic Subsequence.md>)                                 | java        |
 |  583 | [Delete Operation for Two Strings](<https://leetcode.com/problems/delete-operation-for-two-strings>)                                                             | Medium  |                  | [solution](<markdowns/_583. Delete Operation for Two Strings.md>)                                | java        |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<markdowns/_628. Maximum Product of Three Numbers.md>)                                | java        |

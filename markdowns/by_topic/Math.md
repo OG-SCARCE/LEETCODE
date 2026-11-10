@@ -1,4 +1,4 @@
-# [Math](<https://leetcode.com/tag/Math/>) (55 completed)
+# [Math](<https://leetcode.com/tag/Math/>) (56 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                                                                   | Easy    |           | [solution](<../_415. Add Strings.md>)                                                   | java        | Oct 26, 2026    |
 |  441 | [Arranging Coins](<https://leetcode.com/problems/arranging-coins>)                                                                                           | Easy    |           | [solution](<../_441. Arranging Coins.md>)                                               | java        | Oct 29, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                     | Medium  | Daily     | [solution](<../_486. Predict the Winner.md>)                                            | java        | Aug 01, 2026    |
+|  492 | [Construct the Rectangle](<https://leetcode.com/problems/construct-the-rectangle>)                                                                           | Easy    |           | [solution](<../_492. Construct the Rectangle.md>)                                       | java        | Nov 10, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                         | Easy    | Daily     | [solution](<../_628. Maximum Product of Three Numbers.md>)                              | java        | Jul 26, 2026    |
 |  812 | [Largest Triangle Area](<https://leetcode.com/problems/largest-triangle-area>)                                                                               | Easy    |           | [solution](<../_812. Largest Triangle Area.md>)                                         | java        | Aug 24, 2026    |
 |  866 | [Prime Palindrome](<https://leetcode.com/problems/prime-palindrome>)                                                                                         | Medium  |           | [solution](<../_866. Prime Palindrome.md>)                                              | java        | Sep 14, 2026    |

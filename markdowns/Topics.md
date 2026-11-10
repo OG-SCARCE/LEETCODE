@@ -7,7 +7,7 @@
 - [Array](<by_topic/Array.md>) (151 completed)
 - [String](<by_topic/String.md>) (78 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (63 completed)
-- [Math](<by_topic/Math.md>) (55 completed)
+- [Math](<by_topic/Math.md>) (56 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (48 completed)
 - [Tree](<by_topic/Tree.md>) (42 completed)
 - [Two Pointers](<by_topic/Two Pointers.md>) (41 completed)
