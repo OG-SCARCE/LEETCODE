@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (150 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (151 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -84,6 +84,7 @@
 |  448 | [Find All Numbers Disappeared in an Array](<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array>)                                             | Easy    |                  | [solution](<../_448. Find All Numbers Disappeared in an Array.md>)                        | java        | Oct 30, 2026    |
 |  455 | [Assign Cookies](<https://leetcode.com/problems/assign-cookies>)                                                                                                 | Easy    |                  | [solution](<../_455. Assign Cookies.md>)                                                  | java        | Oct 31, 2026    |
 |  463 | [Island Perimeter](<https://leetcode.com/problems/island-perimeter>)                                                                                             | Easy    |                  | [solution](<../_463. Island Perimeter.md>)                                                | java        | Nov 05, 2026    |
+|  485 | [Max Consecutive Ones](<https://leetcode.com/problems/max-consecutive-ones>)                                                                                     | Easy    |                  | [solution](<../_485. Max Consecutive Ones.md>)                                            | java        | Nov 09, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<../_486. Predict the Winner.md>)                                              | java        | Aug 01, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
 |  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                                     | Medium  |                  | [solution](<../_646. Maximum Length of Pair Chain.md>)                                    | java        | Sep 26, 2026    |
