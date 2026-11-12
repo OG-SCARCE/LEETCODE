@@ -4,9 +4,9 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (152 completed)
+- [Array](<by_topic/Array.md>) (153 completed)
 - [String](<by_topic/String.md>) (78 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (63 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (64 completed)
 - [Math](<by_topic/Math.md>) (56 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (48 completed)
 - [Tree](<by_topic/Tree.md>) (42 completed)
@@ -21,7 +21,7 @@
 - [Backtracking](<by_topic/Backtracking.md>) (21 completed)
 - [Matrix](<by_topic/Matrix.md>) (21 completed)
 - [Greedy](<by_topic/Greedy.md>) (19 completed)
-- [Stack](<by_topic/Stack.md>) (17 completed)
+- [Stack](<by_topic/Stack.md>) (18 completed)
 - [Simulation](<by_topic/Simulation.md>) (15 completed)
 - [Sliding Window](<by_topic/Sliding Window.md>) (13 completed)
 - [Counting](<by_topic/Counting.md>) (13 completed)
@@ -44,6 +44,7 @@
 - [Hash Function](<by_topic/Hash Function.md>) (3 completed)
 - [Interactive](<by_topic/Interactive.md>) (3 completed)
 - [Game Theory](<by_topic/Game Theory.md>) (3 completed)
+- [Monotonic Stack](<by_topic/Monotonic Stack.md>) (3 completed)
 - [Bitmask](<by_topic/Bitmask.md>) (3 completed)
 - [Trie](<by_topic/Trie.md>) (2 completed)
 - [Bracket Sequences](<by_topic/Bracket Sequences.md>) (2 completed)
@@ -60,7 +61,6 @@
 - [Geometry](<by_topic/Geometry.md>) (2 completed)
 - [Euclidean Algorithm](<by_topic/Euclidean Algorithm.md>) (2 completed)
 - [Greatest Common Divisor](<by_topic/Greatest Common Divisor.md>) (2 completed)
-- [Monotonic Stack](<by_topic/Monotonic Stack.md>) (2 completed)
 - [Topological Sort](<by_topic/Topological Sort.md>) (2 completed)
 - [Binary Indexed Tree](<by_topic/Binary Indexed Tree.md>) (2 completed)
 - [Manacher](<by_topic/Manacher.md>) (1 completed)

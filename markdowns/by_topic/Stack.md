@@ -1,4 +1,4 @@
-# [Stack](<https://leetcode.com/tag/Stack/>) (17 completed)
+# [Stack](<https://leetcode.com/tag/Stack/>) (18 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -19,6 +19,7 @@
 |  225 | [Implement Stack using Queues](<https://leetcode.com/problems/implement-stack-using-queues>)                                                 | Easy    |                  | [solution](<../_225. Implement Stack using Queues.md>)                          | java        | Jun 17, 2026    |
 |  232 | [Implement Queue using Stacks](<https://leetcode.com/problems/implement-queue-using-stacks>)                                                 | Easy    |                  | [solution](<../_232. Implement Queue using Stacks.md>)                          | java        | Jun 17, 2026    |
 |  234 | [Palindrome Linked List](<https://leetcode.com/problems/palindrome-linked-list>)                                                             | Easy    |                  | [solution](<../_234. Palindrome Linked List.md>)                                | java        | Jun 18, 2026    |
+|  496 | [Next Greater Element I](<https://leetcode.com/problems/next-greater-element-i>)                                                             | Easy    |                  | [solution](<../_496. Next Greater Element I.md>)                                | java        | Nov 12, 2026    |
 | 1574 | [Shortest Subarray to be Removed to Make Array Sorted](<https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted>) | Medium  |                  | [solution](<../_1574. Shortest Subarray to be Removed to Make Array Sorted.md>) | java        | Jul 27, 2026    |
 | 1793 | [Maximum Score of a Good Subarray](<https://leetcode.com/problems/maximum-score-of-a-good-subarray>)                                         | Hard    |                  | [solution](<../_1793. Maximum Score of a Good Subarray.md>)                     | java        | May 13, 2026    |
 | 2216 | [Minimum Deletions to Make Array Beautiful](<https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful>)                       | Medium  |                  | [solution](<../_2216. Minimum Deletions to Make Array Beautiful.md>)            | java        | Jun 15, 2026    |
