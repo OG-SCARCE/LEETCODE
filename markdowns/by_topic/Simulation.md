@@ -1,4 +1,4 @@
-# [Simulation](<https://leetcode.com/tag/Simulation/>) (14 completed)
+# [Simulation](<https://leetcode.com/tag/Simulation/>) (15 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,6 +13,7 @@
 |  258 | [Add Digits](<https://leetcode.com/problems/add-digits>)                                                             | Easy    |           | [solution](<../_258. Add Digits.md>)                                | java        | Jun 18, 2026    |
 |  412 | [Fizz Buzz](<https://leetcode.com/problems/fizz-buzz>)                                                               | Easy    |           | [solution](<../_412. Fizz Buzz.md>)                                 | java        | Oct 21, 2026    |
 |  415 | [Add Strings](<https://leetcode.com/problems/add-strings>)                                                           | Easy    |           | [solution](<../_415. Add Strings.md>)                               | java        | Oct 26, 2026    |
+|  495 | [Teemo Attacking](<https://leetcode.com/problems/teemo-attacking>)                                                   | Easy    |           | [solution](<../_495. Teemo Attacking.md>)                           | java        | Nov 11, 2026    |
 | 1222 | [Queens That Can Attack the King](<https://leetcode.com/problems/queens-that-can-attack-the-king>)                   | Medium  |           | [solution](<../_1222. Queens That Can Attack the King.md>)          | java        | Jul 06, 2026    |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                   | Easy    |           | [solution](<../_2582. Pass the Pillow.md>)                          | java        | Jul 04, 2026    |
 | 2766 | [Relocate Marbles](<https://leetcode.com/problems/relocate-marbles>)                                                 | Medium  |           | [solution](<../_2766. Relocate Marbles.md>)                         | java        | May 20, 2026    |

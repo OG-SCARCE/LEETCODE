@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (151 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (152 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -86,6 +86,7 @@
 |  463 | [Island Perimeter](<https://leetcode.com/problems/island-perimeter>)                                                                                             | Easy    |                  | [solution](<../_463. Island Perimeter.md>)                                                | java        | Nov 05, 2026    |
 |  485 | [Max Consecutive Ones](<https://leetcode.com/problems/max-consecutive-ones>)                                                                                     | Easy    |                  | [solution](<../_485. Max Consecutive Ones.md>)                                            | java        | Nov 09, 2026    |
 |  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                                         | Medium  | Daily            | [solution](<../_486. Predict the Winner.md>)                                              | java        | Aug 01, 2026    |
+|  495 | [Teemo Attacking](<https://leetcode.com/problems/teemo-attacking>)                                                                                               | Easy    |                  | [solution](<../_495. Teemo Attacking.md>)                                                 | java        | Nov 11, 2026    |
 |  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                             | Easy    | Daily            | [solution](<../_628. Maximum Product of Three Numbers.md>)                                | java        | Jul 26, 2026    |
 |  646 | [Maximum Length of Pair Chain](<https://leetcode.com/problems/maximum-length-of-pair-chain>)                                                                     | Medium  |                  | [solution](<../_646. Maximum Length of Pair Chain.md>)                                    | java        | Sep 26, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                               | Medium  |                  | [solution](<../_740. Delete and Earn.md>)                                                 | java        | Sep 08, 2026    |

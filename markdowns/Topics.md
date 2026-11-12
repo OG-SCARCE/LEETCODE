@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (151 completed)
+- [Array](<by_topic/Array.md>) (152 completed)
 - [String](<by_topic/String.md>) (78 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (63 completed)
 - [Math](<by_topic/Math.md>) (56 completed)
@@ -22,7 +22,7 @@
 - [Matrix](<by_topic/Matrix.md>) (21 completed)
 - [Greedy](<by_topic/Greedy.md>) (19 completed)
 - [Stack](<by_topic/Stack.md>) (17 completed)
-- [Simulation](<by_topic/Simulation.md>) (14 completed)
+- [Simulation](<by_topic/Simulation.md>) (15 completed)
 - [Sliding Window](<by_topic/Sliding Window.md>) (13 completed)
 - [Counting](<by_topic/Counting.md>) (13 completed)
 - [Recursion](<by_topic/Recursion.md>) (12 completed)
