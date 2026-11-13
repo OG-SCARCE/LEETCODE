@@ -1,4 +1,4 @@
-# [String](<https://leetcode.com/tag/String/>) (78 completed)
+# [String](<https://leetcode.com/tag/String/>) (79 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -55,6 +55,7 @@
 |  434 | [Number of Segments in a String](<https://leetcode.com/problems/number-of-segments-in-a-string>)                                                             | Easy    |                  | [solution](<../_434. Number of Segments in a String.md>)                                | java        | Oct 28, 2026    |
 |  459 | [Repeated Substring Pattern](<https://leetcode.com/problems/repeated-substring-pattern>)                                                                     | Easy    |                  | [solution](<../_459. Repeated Substring Pattern.md>)                                    | java        | Nov 03, 2026    |
 |  482 | [License Key Formatting](<https://leetcode.com/problems/license-key-formatting>)                                                                             | Easy    |                  | [solution](<../_482. License Key Formatting.md>)                                        | java        | Nov 07, 2026    |
+|  500 | [Keyboard Row](<https://leetcode.com/problems/keyboard-row>)                                                                                                 | Easy    |                  | [solution](<../_500. Keyboard Row.md>)                                                  | java        | Nov 13, 2026    |
 |  516 | [Longest Palindromic Subsequence](<https://leetcode.com/problems/longest-palindromic-subsequence>)                                                           | Medium  |                  | [solution](<../_516. Longest Palindromic Subsequence.md>)                               | java        | Sep 16, 2026    |
 |  583 | [Delete Operation for Two Strings](<https://leetcode.com/problems/delete-operation-for-two-strings>)                                                         | Medium  |                  | [solution](<../_583. Delete Operation for Two Strings.md>)                              | java        | Sep 23, 2026    |
 | 1078 | [Occurrences After Bigram](<https://leetcode.com/problems/occurrences-after-bigram>)                                                                         | Easy    |                  | [solution](<../_1078. Occurrences After Bigram.md>)                                     | java        | Oct 08, 2026    |

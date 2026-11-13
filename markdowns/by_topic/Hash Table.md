@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (64 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (65 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 |  409 | [Longest Palindrome](<https://leetcode.com/problems/longest-palindrome>)                                                                                     | Easy    |           | [solution](<../_409. Longest Palindrome.md>)                                            | java        | Oct 20, 2026    |
 |  448 | [Find All Numbers Disappeared in an Array](<https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array>)                                         | Easy    |           | [solution](<../_448. Find All Numbers Disappeared in an Array.md>)                      | java        | Oct 30, 2026    |
 |  496 | [Next Greater Element I](<https://leetcode.com/problems/next-greater-element-i>)                                                                             | Easy    |           | [solution](<../_496. Next Greater Element I.md>)                                        | java        | Nov 12, 2026    |
+|  500 | [Keyboard Row](<https://leetcode.com/problems/keyboard-row>)                                                                                                 | Easy    |           | [solution](<../_500. Keyboard Row.md>)                                                  | java        | Nov 13, 2026    |
 |  740 | [Delete and Earn](<https://leetcode.com/problems/delete-and-earn>)                                                                                           | Medium  |           | [solution](<../_740. Delete and Earn.md>)                                               | java        | Sep 08, 2026    |
 | 1297 | [Maximum Number of Occurrences of a Substring](<https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring>)                                 | Medium  |           | [solution](<../_1297. Maximum Number of Occurrences of a Substring.md>)                 | java        | Jun 22, 2026    |
 | 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                             | Medium  | Daily     | [solution](<../_1386. Cinema Seat Allocation.md>)                                       | java        | Jul 20, 2026    |

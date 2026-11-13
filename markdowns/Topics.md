@@ -4,9 +4,9 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (153 completed)
-- [String](<by_topic/String.md>) (78 completed)
-- [Hash Table](<by_topic/Hash Table.md>) (64 completed)
+- [Array](<by_topic/Array.md>) (154 completed)
+- [String](<by_topic/String.md>) (79 completed)
+- [Hash Table](<by_topic/Hash Table.md>) (65 completed)
 - [Math](<by_topic/Math.md>) (56 completed)
 - [Dynamic Programming](<by_topic/Dynamic Programming.md>) (48 completed)
 - [Tree](<by_topic/Tree.md>) (42 completed)
