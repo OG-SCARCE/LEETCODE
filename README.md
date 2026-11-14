@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (402 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (403 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -340,6 +340,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 3608 | [Minimum Time for K Connected Components](<https://leetcode.com/problems/minimum-time-for-k-connected-components>)                                               | Medium  |                  | [solution](<markdowns/_3608. Minimum Time for K Connected Components.md>)                        | java        |
 | 3626 | [Find Stores with Inventory Imbalance](<https://leetcode.com/problems/find-stores-with-inventory-imbalance>)                                                     | Medium  |                  | [solution](<markdowns/_3626. Find Stores with Inventory Imbalance.md>)                           | java        |
 | 3635 | [Earliest Finish Time for Land and Water Rides II](<https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii>)                             | Medium  |                  | [solution](<markdowns/_3635. Earliest Finish Time for Land and Water Rides II.md>)               | java        |
+| 3644 | [Maximum K to Sort a Permutation](<https://leetcode.com/problems/maximum-k-to-sort-a-permutation>)                                                               | Medium  |                  | [solution](<markdowns/_3644. Maximum K to Sort a Permutation.md>)                                | java        |
 | 3705 | [Find Golden Hour Customers](<https://leetcode.com/problems/find-golden-hour-customers>)                                                                         | Medium  |                  | [solution](<markdowns/_3705. Find Golden Hour Customers.md>)                                     | java        |
 | 3799 | [Word Squares II](<https://leetcode.com/problems/word-squares-ii>)                                                                                               | Medium  |                  | [solution](<markdowns/_3799. Word Squares II.md>)                                                | java        |
 | 3804 | [Number of Centered Subarrays](<https://leetcode.com/problems/number-of-centered-subarrays>)                                                                     | Medium  |                  | [solution](<markdowns/_3804. Number of Centered Subarrays.md>)                                   | java        |

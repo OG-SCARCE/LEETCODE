@@ -4,7 +4,7 @@
 
 ------
 
-- [Array](<by_topic/Array.md>) (154 completed)
+- [Array](<by_topic/Array.md>) (155 completed)
 - [String](<by_topic/String.md>) (79 completed)
 - [Hash Table](<by_topic/Hash Table.md>) (65 completed)
 - [Math](<by_topic/Math.md>) (56 completed)
@@ -14,7 +14,7 @@
 - [Sorting](<by_topic/Sorting.md>) (40 completed)
 - [Binary Tree](<by_topic/Binary Tree.md>) (34 completed)
 - [Depth-First Search](<by_topic/Depth-First Search.md>) (33 completed)
-- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (29 completed)
+- [Bit Manipulation](<by_topic/Bit Manipulation.md>) (30 completed)
 - [Binary Search](<by_topic/Binary Search.md>) (29 completed)
 - [Linked List](<by_topic/Linked List.md>) (24 completed)
 - [Breadth-First Search](<by_topic/Breadth-First Search.md>) (22 completed)

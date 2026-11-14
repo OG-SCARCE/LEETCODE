@@ -1,4 +1,4 @@
-# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (29 completed)
+# [Bit Manipulation](<https://leetcode.com/tag/Bit-Manipulation/>) (30 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -33,5 +33,6 @@
 | 3276 | [Select Cells in Grid With Maximum Score](<https://leetcode.com/problems/select-cells-in-grid-with-maximum-score>)                 | Hard    |           | [solution](<../_3276. Select Cells in Grid With Maximum Score.md>)         | java        | Jul 31, 2026    |
 | 3376 | [Minimum Time to Break Locks I](<https://leetcode.com/problems/minimum-time-to-break-locks-i>)                                     | Medium  |           | [solution](<../_3376. Minimum Time to Break Locks I.md>)                   | java        | May 29, 2026    |
 | 3435 | [Frequencies of Shortest Supersequences](<https://leetcode.com/problems/frequencies-of-shortest-supersequences>)                   | Hard    |           | [solution](<../_3435. Frequencies of Shortest Supersequences.md>)          | java        | May 30, 2026    |
+| 3644 | [Maximum K to Sort a Permutation](<https://leetcode.com/problems/maximum-k-to-sort-a-permutation>)                                 | Medium  |           | [solution](<../_3644. Maximum K to Sort a Permutation.md>)                 | java        | Nov 14, 2026    |
 | 3811 | [Number of Alternating XOR Partitions](<https://leetcode.com/problems/number-of-alternating-xor-partitions>)                       | Medium  |           | [solution](<../_3811. Number of Alternating XOR Partitions.md>)            | java        | Sep 25, 2026    |
 | 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                           | Hard    |           | [solution](<../_4033. Valid K-Unique Subarrays I.md>)                      | java        | Aug 15, 2026    |
