@@ -1,4 +1,4 @@
-# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (65 completed)
+# [Hash Table](<https://leetcode.com/tag/Hash-Table/>) (66 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -71,3 +71,4 @@
 | 4005 | [Minimum Operations to Make Array Equal III](<https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii>)                                     | Hard    |           | [solution](<../_4005. Minimum Operations to Make Array Equal III.md>)                   | java        | Jun 09, 2026    |
 | 4007 | [Widest Possible Fence](<https://leetcode.com/problems/widest-possible-fence>)                                                                               | Hard    |           | [solution](<../_4007. Widest Possible Fence.md>)                                        | java        | Jun 10, 2026    |
 | 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                                                     | Hard    |           | [solution](<../_4033. Valid K-Unique Subarrays I.md>)                                   | java        | Aug 15, 2026    |
+| 4107 | [Count Valid Suffix Sorts I](<https://leetcode.com/problems/count-valid-suffix-sorts-i>)                                                                     | Medium  |           | [solution](<../_4107. Count Valid Suffix Sorts I.md>)                                   | java        | Aug 04, 2026    |

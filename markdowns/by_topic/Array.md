@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (155 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (156 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -161,3 +161,4 @@
 | 4007 | [Widest Possible Fence](<https://leetcode.com/problems/widest-possible-fence>)                                                                                   | Hard    |                  | [solution](<../_4007. Widest Possible Fence.md>)                                          | java        | Jun 10, 2026    |
 | 4033 | [Valid K-Unique Subarrays I](<https://leetcode.com/problems/valid-k-unique-subarrays-i>)                                                                         | Hard    |                  | [solution](<../_4033. Valid K-Unique Subarrays I.md>)                                     | java        | Aug 15, 2026    |
 | 4057 | [Number of Intersecting Interval Pairs II](<https://leetcode.com/problems/number-of-intersecting-interval-pairs-ii>)                                             | Medium  |                  | [solution](<../_4057. Number of Intersecting Interval Pairs II.md>)                       | java        | Jun 04, 2026    |
+| 4107 | [Count Valid Suffix Sorts I](<https://leetcode.com/problems/count-valid-suffix-sorts-i>)                                                                         | Medium  |                  | [solution](<../_4107. Count Valid Suffix Sorts I.md>)                                     | java        | Aug 04, 2026    |
