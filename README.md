@@ -1,4 +1,4 @@
-# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (404 solved)
+# **[LeetCode Records](https://leetcode.com/u/OG-SCARCE/)** (405 solved)
 
 <!-- This readme was generated using [WikiLeet](<https://github.com/Zanger67/WikiLeet>) -->
 
@@ -306,6 +306,7 @@ This repo is a collection of my LeetCode solutions, primarily written in Python,
 | 2306 | [Naming a Company](<https://leetcode.com/problems/naming-a-company>)                                                                                             | Hard    |                  | [solution](<markdowns/_2306. Naming a Company.md>)                                               | java        |
 | 2319 | [Check if Matrix Is X-Matrix](<https://leetcode.com/problems/check-if-matrix-is-x-matrix>)                                                                       | Easy    |                  | [solution](<markdowns/_2319. Check if Matrix Is X-Matrix.md>)                                    | java        |
 | 2349 | [Design a Number Container System](<https://leetcode.com/problems/design-a-number-container-system>)                                                             | Medium  |                  | [solution](<markdowns/_2349. Design a Number Container System.md>)                               | java        |
+| 2361 | [Minimum Costs Using the Train Line](<https://leetcode.com/problems/minimum-costs-using-the-train-line>)                                                         | Hard    |                  | [solution](<markdowns/_2361. Minimum Costs Using the Train Line.md>)                             | java        |
 | 2496 | [Maximum Value of a String in an Array](<https://leetcode.com/problems/maximum-value-of-a-string-in-an-array>)                                                   | Easy    |                  | [solution](<markdowns/_2496. Maximum Value of a String in an Array.md>)                          | java        |
 | 2582 | [Pass the Pillow](<https://leetcode.com/problems/pass-the-pillow>)                                                                                               | Easy    |                  | [solution](<markdowns/_2582. Pass the Pillow.md>)                                                | java        |
 | 2634 | [Filter Elements from Array](<https://leetcode.com/problems/filter-elements-from-array>)                                                                         | Easy    |                  | [solution](<markdowns/_2634. Filter Elements from Array.md>)                                     | java        |

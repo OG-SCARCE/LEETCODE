@@ -1,4 +1,4 @@
-# Hard Questions (33)
+# Hard Questions (34)
 
 *[Back to top](<../README.md>)*
 
@@ -19,6 +19,7 @@
 | 2106 | [Maximum Fruits Harvested After at Most K Steps](<https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps>)                                 | Hard    |        | [solution](<_2106. Maximum Fruits Harvested After at Most K Steps.md>)                 | java        | Jul 18, 2026    |
 | 2156 | [Find Substring With Given Hash Value](<https://leetcode.com/problems/find-substring-with-given-hash-value>)                                                     | Hard    |        | [solution](<_2156. Find Substring With Given Hash Value.md>)                           | java        | Aug 16, 2026    |
 | 2306 | [Naming a Company](<https://leetcode.com/problems/naming-a-company>)                                                                                             | Hard    |        | [solution](<_2306. Naming a Company.md>)                                               | java        | Jun 07, 2026    |
+| 2361 | [Minimum Costs Using the Train Line](<https://leetcode.com/problems/minimum-costs-using-the-train-line>)                                                         | Hard    |        | [solution](<_2361. Minimum Costs Using the Train Line.md>)                             | java        | Nov 16, 2026    |
 | 2714 | [Find Shortest Path with K Hops](<https://leetcode.com/problems/find-shortest-path-with-k-hops>)                                                                 | Hard    |        | [solution](<_2714. Find Shortest Path with K Hops.md>)                                 | java        | Jun 06, 2026    |
 | 2793 | [Status of Flight Tickets](<https://leetcode.com/problems/status-of-flight-tickets>)                                                                             | Hard    |        | [solution](<_2793. Status of Flight Tickets.md>)                                       | java        | Jul 11, 2026    |
 | 3225 | [Maximum Score From Grid Operations](<https://leetcode.com/problems/maximum-score-from-grid-operations>)                                                         | Hard    |        | [solution](<_3225. Maximum Score From Grid Operations.md>)                             | java        | Aug 12, 2026    |

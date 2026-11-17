@@ -1,4 +1,4 @@
-# [Array](<https://leetcode.com/tag/Array/>) (156 completed)
+# [Array](<https://leetcode.com/tag/Array/>) (157 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -122,6 +122,7 @@
 | 2248 | [Intersection of Multiple Arrays](<https://leetcode.com/problems/intersection-of-multiple-arrays>)                                                               | Easy    |                  | [solution](<../_2248. Intersection of Multiple Arrays.md>)                                | java        | Jun 01, 2026    |
 | 2306 | [Naming a Company](<https://leetcode.com/problems/naming-a-company>)                                                                                             | Hard    |                  | [solution](<../_2306. Naming a Company.md>)                                               | java        | Jun 07, 2026    |
 | 2319 | [Check if Matrix Is X-Matrix](<https://leetcode.com/problems/check-if-matrix-is-x-matrix>)                                                                       | Easy    |                  | [solution](<../_2319. Check if Matrix Is X-Matrix.md>)                                    | java        | Aug 13, 2026    |
+| 2361 | [Minimum Costs Using the Train Line](<https://leetcode.com/problems/minimum-costs-using-the-train-line>)                                                         | Hard    |                  | [solution](<../_2361. Minimum Costs Using the Train Line.md>)                             | java        | Nov 16, 2026    |
 | 2496 | [Maximum Value of a String in an Array](<https://leetcode.com/problems/maximum-value-of-a-string-in-an-array>)                                                   | Easy    |                  | [solution](<../_2496. Maximum Value of a String in an Array.md>)                          | java        | Oct 24, 2026    |
 | 2639 | [Find the Width of Columns of a Grid](<https://leetcode.com/problems/find-the-width-of-columns-of-a-grid>)                                                       | Easy    |                  | [solution](<../_2639. Find the Width of Columns of a Grid.md>)                            | java        | May 11, 2026    |
 | 2766 | [Relocate Marbles](<https://leetcode.com/problems/relocate-marbles>)                                                                                             | Medium  |                  | [solution](<../_2766. Relocate Marbles.md>)                                               | java        | May 20, 2026    |

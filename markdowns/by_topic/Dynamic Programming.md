@@ -1,4 +1,4 @@
-# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (48 completed)
+# [Dynamic Programming](<https://leetcode.com/tag/Dynamic-Programming/>) (49 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -42,6 +42,7 @@
 | 1025 | [Divisor Game](<https://leetcode.com/problems/divisor-game>)                                                                                           | Easy    |             | [solution](<../_1025. Divisor Game.md>)                                              | java        | Sep 09, 2026    |
 | 1105 | [Filling Bookcase Shelves](<https://leetcode.com/problems/filling-bookcase-shelves>)                                                                   | Medium  |             | [solution](<../_1105. Filling Bookcase Shelves.md>)                                  | java        | Sep 23, 2026    |
 | 1617 | [Count Subtrees With Max Distance Between Cities](<https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities>)                     | Hard    |             | [solution](<../_1617. Count Subtrees With Max Distance Between Cities.md>)           | java        | Aug 10, 2026    |
+| 2361 | [Minimum Costs Using the Train Line](<https://leetcode.com/problems/minimum-costs-using-the-train-line>)                                               | Hard    |             | [solution](<../_2361. Minimum Costs Using the Train Line.md>)                        | java        | Nov 16, 2026    |
 | 2892 | [Minimizing Array After Replacing Pairs With Their Product](<https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product>) | Medium  |             | [solution](<../_2892. Minimizing Array After Replacing Pairs With Their Product.md>) | java        | May 14, 2026    |
 | 3225 | [Maximum Score From Grid Operations](<https://leetcode.com/problems/maximum-score-from-grid-operations>)                                               | Hard    |             | [solution](<../_3225. Maximum Score From Grid Operations.md>)                        | java        | Aug 12, 2026    |
 | 3276 | [Select Cells in Grid With Maximum Score](<https://leetcode.com/problems/select-cells-in-grid-with-maximum-score>)                                     | Hard    |             | [solution](<../_3276. Select Cells in Grid With Maximum Score.md>)                   | java        | Jul 31, 2026    |
