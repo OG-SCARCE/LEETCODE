@@ -1,4 +1,4 @@
-# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (7 completed)
+# [Binary Search Tree](<https://leetcode.com/tag/Binary-Search-Tree/>) (8 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -13,3 +13,4 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](<https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree>) | Easy    |           | [solution](<../_108. Convert Sorted Array to Binary Search Tree.md>) | java        | May 31, 2026    |
 | 109 | [Convert Sorted List to Binary Search Tree](<https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree>)   | Medium  |           | [solution](<../_109. Convert Sorted List to Binary Search Tree.md>)  | java        | Jun 01, 2026    |
 | 173 | [Binary Search Tree Iterator](<https://leetcode.com/problems/binary-search-tree-iterator>)                               | Medium  |           | [solution](<../_173. Binary Search Tree Iterator.md>)                | java        | Jun 14, 2026    |
+| 501 | [Find Mode in Binary Search Tree](<https://leetcode.com/problems/find-mode-in-binary-search-tree>)                       | Easy    |           | [solution](<../_501. Find Mode in Binary Search Tree.md>)            | java        | Nov 17, 2026    |

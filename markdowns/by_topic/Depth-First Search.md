@@ -1,4 +1,4 @@
-# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (33 completed)
+# [Depth-First Search](<https://leetcode.com/tag/Depth-First-Search/>) (34 completed)
 
 *[Back to top](<../../README.md>)*
 
@@ -30,6 +30,7 @@
 |  257 | [Binary Tree Paths](<https://leetcode.com/problems/binary-tree-paths>)                                                                           | Easy    |           | [solution](<../_257. Binary Tree Paths.md>)                                       | java        | Jun 18, 2026    |
 |  404 | [Sum of Left Leaves](<https://leetcode.com/problems/sum-of-left-leaves>)                                                                         | Easy    |           | [solution](<../_404. Sum of Left Leaves.md>)                                      | java        | Oct 14, 2026    |
 |  463 | [Island Perimeter](<https://leetcode.com/problems/island-perimeter>)                                                                             | Easy    |           | [solution](<../_463. Island Perimeter.md>)                                        | java        | Nov 05, 2026    |
+|  501 | [Find Mode in Binary Search Tree](<https://leetcode.com/problems/find-mode-in-binary-search-tree>)                                               | Easy    |           | [solution](<../_501. Find Mode in Binary Search Tree.md>)                         | java        | Nov 17, 2026    |
 | 1022 | [Sum of Root To Leaf Binary Numbers](<https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers>)                                         | Easy    |           | [solution](<../_1022. Sum of Root To Leaf Binary Numbers.md>)                     | java        | Sep 22, 2026    |
 | 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](<https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero>) | Medium  |           | [solution](<../_1466. Reorder Routes to Make All Paths Lead to the City Zero.md>) | java        | May 24, 2026    |
 | 1522 | [Diameter of N-Ary Tree](<https://leetcode.com/problems/diameter-of-n-ary-tree>)                                                                 | Medium  |           | [solution](<../_1522. Diameter of N-Ary Tree.md>)                                 | java        | Aug 03, 2026    |
