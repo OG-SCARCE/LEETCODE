@@ -4,29 +4,30 @@
 
 Dates are for the date I completed the question so due to the my time zone and how it lines up with UTC, it may be off by a day.
 
-### October 2026
-| Su   | Mo   | Tu   | We   | Th                               | Fr                                  |   Sa |
-|-----:|-----:|-----:|-----:|---------------------------------:|------------------------------------:|-----:|
-|      |      |      |      | [1](<_20. Valid Parentheses.md>) | [2](<_22. Generate Parentheses.md>) |    3 |
-| 4    | 5    | 6    | 7    | 8                                | 9                                   |   10 |
-| 11   | 12   | 13   | 14   | 15                               | 16                                  |   17 |
-| 18   | 19   | 20   | 21   | 22                               | 23                                  |   24 |
-| 25   | 26   | 27   | 28   | 29                               | 30                                  |   31 |
+### November 2026
+|   Su |   Mo |   Tu | We                                                                          |   Th |   Fr |   Sa |
+|-----:|-----:|-----:|----------------------------------------------------------------------------:|-----:|-----:|-----:|
+|    1 |    2 |    3 | 4                                                                           |    5 |    6 |    7 |
+|    8 |    9 |   10 | 11                                                                          |   12 |   13 |   14 |
+|   15 |   16 |   17 | [18](<_2914. Minimum Number of Changes to Make Binary String Beautiful.md>) |   19 |   20 |   21 |
+|   22 |   23 |   24 | 25                                                                          |   26 |   27 |   28 |
+|   29 |   30 |      |                                                                             |      |      |      |
 
 
 
-|    # | Title                                                                                                              | Level   | Cats             | Solution                                                        | Languages   | Date Complete   |
-|-----:|:-------------------------------------------------------------------------------------------------------------------|:--------|:-----------------|:----------------------------------------------------------------|:------------|:----------------|
-|   22 | [Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)                                       | Medium  | Daily, N150      | [solution](<_22. Generate Parentheses.md>)                      | java        | Oct 02, 2026    |
-|   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                             | Easy    | B75, Daily, N150 | [solution](<_20. Valid Parentheses.md>)                         | java        | Oct 01, 2026    |
-| 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>) | Medium  | Daily            | [solution](<_2265. Count Nodes Equal to Average of Subtree.md>) | java        | Sep 10, 2026    |
-| 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                   | Medium  | Daily            | [solution](<_1386. Cinema Seat Allocation.md>)                  | java        | Aug 19, 2026    |
-|  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                           | Medium  | Daily            | [solution](<_486. Predict the Winner.md>)                       | java        | Aug 01, 2026    |
-|  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)               | Easy    | Daily            | [solution](<_628. Maximum Product of Three Numbers.md>)         | java        | Jul 26, 2026    |
-| 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                   | Medium  | Daily            | [solution](<_1833. Maximum Ice Cream Bars.md>)                  | java        | Jun 21, 2026    |
-|   33 | [Search in Rotated Sorted Array](<https://leetcode.com/problems/search-in-rotated-sorted-array>)                   | Medium  | B75, Daily, N150 | [solution](<_33. Search in Rotated Sorted Array.md>)            | java        | May 22, 2026    |
-|  154 | [Find Minimum in Rotated Sorted Array II](<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii>) | Hard    | Daily            | [solution](<_154. Find Minimum in Rotated Sorted Array II.md>)  | java        | May 16, 2026    |
-|  153 | [Find Minimum in Rotated Sorted Array](<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array>)       | Medium  | B75, Daily, N150 | [solution](<_153. Find Minimum in Rotated Sorted Array.md>)     | java        | May 15, 2026    |
+|    # | Title                                                                                                                                                  | Level   | Cats             | Solution                                                                          | Languages   | Date Complete   |
+|-----:|:-------------------------------------------------------------------------------------------------------------------------------------------------------|:--------|:-----------------|:----------------------------------------------------------------------------------|:------------|:----------------|
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](<https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful>) | Medium  | Daily            | [solution](<_2914. Minimum Number of Changes to Make Binary String Beautiful.md>) | java        | Nov 18, 2026    |
+|   22 | [Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)                                                                           | Medium  | Daily, N150      | [solution](<_22. Generate Parentheses.md>)                                        | java        | Oct 02, 2026    |
+|   20 | [Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)                                                                                 | Easy    | B75, Daily, N150 | [solution](<_20. Valid Parentheses.md>)                                           | java        | Oct 01, 2026    |
+| 2265 | [Count Nodes Equal to Average of Subtree](<https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree>)                                     | Medium  | Daily            | [solution](<_2265. Count Nodes Equal to Average of Subtree.md>)                   | java        | Sep 10, 2026    |
+| 1386 | [Cinema Seat Allocation](<https://leetcode.com/problems/cinema-seat-allocation>)                                                                       | Medium  | Daily            | [solution](<_1386. Cinema Seat Allocation.md>)                                    | java        | Aug 19, 2026    |
+|  486 | [Predict the Winner](<https://leetcode.com/problems/predict-the-winner>)                                                                               | Medium  | Daily            | [solution](<_486. Predict the Winner.md>)                                         | java        | Aug 01, 2026    |
+|  628 | [Maximum Product of Three Numbers](<https://leetcode.com/problems/maximum-product-of-three-numbers>)                                                   | Easy    | Daily            | [solution](<_628. Maximum Product of Three Numbers.md>)                           | java        | Jul 26, 2026    |
+| 1833 | [Maximum Ice Cream Bars](<https://leetcode.com/problems/maximum-ice-cream-bars>)                                                                       | Medium  | Daily            | [solution](<_1833. Maximum Ice Cream Bars.md>)                                    | java        | Jun 21, 2026    |
+|   33 | [Search in Rotated Sorted Array](<https://leetcode.com/problems/search-in-rotated-sorted-array>)                                                       | Medium  | B75, Daily, N150 | [solution](<_33. Search in Rotated Sorted Array.md>)                              | java        | May 22, 2026    |
+|  154 | [Find Minimum in Rotated Sorted Array II](<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii>)                                     | Hard    | Daily            | [solution](<_154. Find Minimum in Rotated Sorted Array II.md>)                    | java        | May 16, 2026    |
+|  153 | [Find Minimum in Rotated Sorted Array](<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array>)                                           | Medium  | B75, Daily, N150 | [solution](<_153. Find Minimum in Rotated Sorted Array.md>)                       | java        | May 15, 2026    |
 
 ### May 2026
 | Su   | Mo   | Tu   | We   | Th   | Fr                                                    | Sa                                                       |
@@ -88,4 +89,14 @@ Dates are for the date I completed the question so due to the my time zone and h
 | 11   | 12   | 13   | 14   | 15                               | 16                                  |   17 |
 | 18   | 19   | 20   | 21   | 22                               | 23                                  |   24 |
 | 25   | 26   | 27   | 28   | 29                               | 30                                  |   31 |
+
+
+### November 2026
+|   Su |   Mo |   Tu | We                                                                          |   Th |   Fr |   Sa |
+|-----:|-----:|-----:|----------------------------------------------------------------------------:|-----:|-----:|-----:|
+|    1 |    2 |    3 | 4                                                                           |    5 |    6 |    7 |
+|    8 |    9 |   10 | 11                                                                          |   12 |   13 |   14 |
+|   15 |   16 |   17 | [18](<_2914. Minimum Number of Changes to Make Binary String Beautiful.md>) |   19 |   20 |   21 |
+|   22 |   23 |   24 | 25                                                                          |   26 |   27 |   28 |
+|   29 |   30 |      |                                                                             |      |      |      |
 
